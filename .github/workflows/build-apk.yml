@@ -1,0 +1,43 @@
+name: Build PrintCost Pro APK
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.10.2"
+
+      - name: Create Android project
+        run: |
+          echo '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' | base64 --decode | tar -xz
+
+      - name: Build APK
+        run: gradle :app:assembleRelease --stacktrace
+
+      - name: Rename APK
+        run: cp app/build/outputs/apk/release/app-release.apk PrintCost-Pro-v0.1.71.apk
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: PrintCost-Pro-v0.1.71-APK
+          path: PrintCost-Pro-v0.1.71.apk
+          if-no-files-found: error
+          retention-days: 30
