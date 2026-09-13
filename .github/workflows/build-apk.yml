@@ -35,15 +35,27 @@ jobs:
           sed -i 's|@drawable/app_icon|@drawable/app_icon_3d|' app/src/main/AndroidManifest.xml
           sed -i 's/versionCode = 1/versionCode = 2/' app/build.gradle.kts
           sed -i 's/versionName = "0.1.71"/versionName = "0.1.72"/' app/build.gradle.kts
-      - name: Build APK
+      -       - name: Build APK
         run: gradle :app:assembleRelease --stacktrace
 
-      - name: Rename APK
-        run: cp app/build/outputs/apk/release/app-release.apk PrintCost-Pro-v0.1.71.apk
+      - name: Restore signing key
+        run: echo "${{ secrets.ANDROID_KEYSTORE_BASE64 }}" | base64 --decode > release-key.jks
+
+      - name: Sign APK
+        run: |
+          APKSIGNER="$(find "$ANDROID_HOME/build-tools" -name apksigner -type f | sort -V | tail -n 1)"
+          "$APKSIGNER" sign \
+            --ks release-key.jks \
+            --ks-key-alias "${{ secrets.KEYALIAS }}" \
+            --ks-pass "pass:${{ secrets.KEYSTOREPASS }}" \
+            --key-pass "pass:${{ secrets.KEYPASS }}" \
+            --out PrintCost-Pro-v0.1.72.apk \
+            app/build/outputs/apk/release/app-release.apk
+          "$APKSIGNER" verify --verbose --print-certs PrintCost-Pro-v0.1.72.apk
 
       - uses: actions/upload-artifact@v4
         with:
-          name: PrintCost-Pro-v0.1.71-APK
-          path: PrintCost-Pro-v0.1.71.apk
+          name: PrintCost-Pro-v0.1.72-APK
+          path: PrintCost-Pro-v0.1.72.apk
           if-no-files-found: error
           retention-days: 30
