@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-19T18:28:15.909970+00:00",
+  "updatedAt": "2026-09-19T20:46:22.256851+00:00",
   "country": "IL",
   "source": "Deal4Real / Amazon",
-  "count": 697,
+  "count": 698,
   "deals": [
     {
       "asin": "B0H4QVPYS4",
@@ -20,7 +20,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:50.390572+00:00",
+      "verifiedAt": "2026-09-19T20:45:57.041365+00:00",
       "source": "Deal4Real"
     },
     {
@@ -39,7 +39,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:16.086159+00:00",
+      "verifiedAt": "2026-09-19T20:45:23.653368+00:00",
       "source": "Deal4Real"
     },
     {
@@ -58,7 +58,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:16.247145+00:00",
+      "verifiedAt": "2026-09-19T20:45:23.819358+00:00",
       "source": "Deal4Real"
     },
     {
@@ -77,7 +77,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:16.568183+00:00",
+      "verifiedAt": "2026-09-19T20:45:24.140064+00:00",
       "source": "Deal4Real"
     },
     {
@@ -96,7 +96,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:51.882046+00:00",
+      "verifiedAt": "2026-09-19T20:45:58.497303+00:00",
       "source": "Deal4Real"
     },
     {
@@ -115,7 +115,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:45.388053+00:00",
+      "verifiedAt": "2026-09-19T20:45:52.116487+00:00",
       "source": "Deal4Real"
     },
     {
@@ -134,7 +134,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:21.790013+00:00",
+      "verifiedAt": "2026-09-19T20:45:29.170377+00:00",
       "source": "Deal4Real"
     },
     {
@@ -153,7 +153,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:21.888613+00:00",
+      "verifiedAt": "2026-09-19T20:45:29.264328+00:00",
       "source": "Deal4Real"
     },
     {
@@ -172,7 +172,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:22.087976+00:00",
+      "verifiedAt": "2026-09-19T20:45:29.461992+00:00",
       "source": "Deal4Real"
     },
     {
@@ -191,7 +191,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:10.179769+00:00",
+      "verifiedAt": "2026-09-19T20:45:17.893029+00:00",
       "source": "Deal4Real"
     },
     {
@@ -210,7 +210,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:22.186588+00:00",
+      "verifiedAt": "2026-09-19T20:45:29.568522+00:00",
       "source": "Deal4Real"
     },
     {
@@ -229,7 +229,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:45.560168+00:00",
+      "verifiedAt": "2026-09-19T20:45:52.283148+00:00",
       "source": "Deal4Real"
     },
     {
@@ -248,7 +248,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:57.054308+00:00",
+      "verifiedAt": "2026-09-19T20:46:03.683128+00:00",
       "source": "Deal4Real"
     },
     {
@@ -267,7 +267,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:22.477580+00:00",
+      "verifiedAt": "2026-09-19T20:45:29.852839+00:00",
       "source": "Deal4Real"
     },
     {
@@ -286,7 +286,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:12.758374+00:00",
+      "verifiedAt": "2026-09-19T20:45:20.325661+00:00",
       "source": "Deal4Real"
     },
     {
@@ -305,7 +305,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:47.046140+00:00",
+      "verifiedAt": "2026-09-19T20:45:53.718299+00:00",
       "source": "Deal4Real"
     },
     {
@@ -324,7 +324,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:17.509597+00:00",
+      "verifiedAt": "2026-09-19T20:45:25.052344+00:00",
       "source": "Deal4Real"
     },
     {
@@ -343,7 +343,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:22.767786+00:00",
+      "verifiedAt": "2026-09-19T20:45:30.135205+00:00",
       "source": "Deal4Real"
     },
     {
@@ -362,7 +362,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:22.380268+00:00",
+      "verifiedAt": "2026-09-19T20:45:29.758888+00:00",
       "source": "Deal4Real"
     },
     {
@@ -381,7 +381,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:13.856629+00:00",
+      "verifiedAt": "2026-09-19T20:45:21.384765+00:00",
       "source": "Deal4Real"
     },
     {
@@ -400,7 +400,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:17.315070+00:00",
+      "verifiedAt": "2026-09-19T20:45:24.866124+00:00",
       "source": "Deal4Real"
     },
     {
@@ -419,7 +419,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:24.623370+00:00",
+      "verifiedAt": "2026-09-19T20:45:31.930685+00:00",
       "source": "Deal4Real"
     },
     {
@@ -438,7 +438,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:17.899690+00:00",
+      "verifiedAt": "2026-09-19T20:45:25.434426+00:00",
       "source": "Deal4Real"
     },
     {
@@ -457,7 +457,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:17.413541+00:00",
+      "verifiedAt": "2026-09-19T20:45:24.959638+00:00",
       "source": "Deal4Real"
     },
     {
@@ -476,7 +476,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:22.961258+00:00",
+      "verifiedAt": "2026-09-19T20:45:30.322493+00:00",
       "source": "Deal4Real"
     },
     {
@@ -495,7 +495,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:12.675914+00:00",
+      "verifiedAt": "2026-09-19T20:45:20.243858+00:00",
       "source": "Deal4Real"
     },
     {
@@ -514,7 +514,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:21.498103+00:00",
+      "verifiedAt": "2026-09-19T20:45:28.887614+00:00",
       "source": "Deal4Real"
     },
     {
@@ -533,7 +533,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:17.604700+00:00",
+      "verifiedAt": "2026-09-19T20:45:25.146890+00:00",
       "source": "Deal4Real"
     },
     {
@@ -552,7 +552,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:17.704733+00:00",
+      "verifiedAt": "2026-09-19T20:45:25.242595+00:00",
       "source": "Deal4Real"
     },
     {
@@ -571,7 +571,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:51.976695+00:00",
+      "verifiedAt": "2026-09-19T20:45:58.590472+00:00",
       "source": "Deal4Real"
     },
     {
@@ -590,7 +590,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:22.575159+00:00",
+      "verifiedAt": "2026-09-19T20:45:29.948002+00:00",
       "source": "Deal4Real"
     },
     {
@@ -609,7 +609,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:10.501396+00:00",
+      "verifiedAt": "2026-09-19T20:45:18.132411+00:00",
       "source": "Deal4Real"
     },
     {
@@ -628,7 +628,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:52.071254+00:00",
+      "verifiedAt": "2026-09-19T20:45:58.683980+00:00",
       "source": "Deal4Real"
     },
     {
@@ -647,7 +647,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:18.482782+00:00",
+      "verifiedAt": "2026-09-19T20:45:26.025114+00:00",
       "source": "Deal4Real"
     },
     {
@@ -666,7 +666,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:52.166775+00:00",
+      "verifiedAt": "2026-09-19T20:45:58.777276+00:00",
       "source": "Deal4Real"
     },
     {
@@ -685,7 +685,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:23.839844+00:00",
+      "verifiedAt": "2026-09-19T20:45:31.170534+00:00",
       "source": "Deal4Real"
     },
     {
@@ -704,7 +704,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:56.960661+00:00",
+      "verifiedAt": "2026-09-19T20:46:03.588712+00:00",
       "source": "Deal4Real"
     },
     {
@@ -723,7 +723,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:45.731637+00:00",
+      "verifiedAt": "2026-09-19T20:45:52.449468+00:00",
       "source": "Deal4Real"
     },
     {
@@ -742,7 +742,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:17.997137+00:00",
+      "verifiedAt": "2026-09-19T20:45:25.533175+00:00",
       "source": "Deal4Real"
     },
     {
@@ -761,7 +761,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:21.989341+00:00",
+      "verifiedAt": "2026-09-19T20:45:29.362559+00:00",
       "source": "Deal4Real"
     },
     {
@@ -780,7 +780,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:18.094331+00:00",
+      "verifiedAt": "2026-09-19T20:45:25.631771+00:00",
       "source": "Deal4Real"
     },
     {
@@ -799,7 +799,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:45.646301+00:00",
+      "verifiedAt": "2026-09-19T20:45:52.366561+00:00",
       "source": "Deal4Real"
     },
     {
@@ -818,7 +818,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:47.130960+00:00",
+      "verifiedAt": "2026-09-19T20:45:53.802307+00:00",
       "source": "Deal4Real"
     },
     {
@@ -837,7 +837,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:52.262379+00:00",
+      "verifiedAt": "2026-09-19T20:45:58.869644+00:00",
       "source": "Deal4Real"
     },
     {
@@ -856,7 +856,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:10.420963+00:00",
+      "verifiedAt": "2026-09-19T20:45:18.053077+00:00",
       "source": "Deal4Real"
     },
     {
@@ -875,7 +875,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:13.024172+00:00",
+      "verifiedAt": "2026-09-19T20:45:20.570741+00:00",
       "source": "Deal4Real"
     },
     {
@@ -894,7 +894,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:46.098120+00:00",
+      "verifiedAt": "2026-09-19T20:45:52.783341+00:00",
       "source": "Deal4Real"
     },
     {
@@ -913,7 +913,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:47.304241+00:00",
+      "verifiedAt": "2026-09-19T20:45:53.971061+00:00",
       "source": "Deal4Real"
     },
     {
@@ -932,7 +932,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:52.940037+00:00",
+      "verifiedAt": "2026-09-19T20:45:59.522051+00:00",
       "source": "Deal4Real"
     },
     {
@@ -951,7 +951,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:52.458942+00:00",
+      "verifiedAt": "2026-09-19T20:45:59.055863+00:00",
       "source": "Deal4Real"
     },
     {
@@ -970,7 +970,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:24.231657+00:00",
+      "verifiedAt": "2026-09-19T20:45:31.553867+00:00",
       "source": "Deal4Real"
     },
     {
@@ -989,7 +989,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:23.743292+00:00",
+      "verifiedAt": "2026-09-19T20:45:31.073759+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1008,7 +1008,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:23.059181+00:00",
+      "verifiedAt": "2026-09-19T20:45:30.416527+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1027,7 +1027,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:18.289088+00:00",
+      "verifiedAt": "2026-09-19T20:45:25.824988+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1046,7 +1046,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:13.108041+00:00",
+      "verifiedAt": "2026-09-19T20:45:20.652874+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1065,7 +1065,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:12.929183+00:00",
+      "verifiedAt": "2026-09-19T20:45:20.489473+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1084,7 +1084,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:13.277124+00:00",
+      "verifiedAt": "2026-09-19T20:45:20.816364+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1103,7 +1103,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:21.594939+00:00",
+      "verifiedAt": "2026-09-19T20:45:28.981066+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1122,7 +1122,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:21.692632+00:00",
+      "verifiedAt": "2026-09-19T20:45:29.075001+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1141,7 +1141,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:17.802296+00:00",
+      "verifiedAt": "2026-09-19T20:45:25.338226+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1160,7 +1160,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:10.097500+00:00",
+      "verifiedAt": "2026-09-19T20:45:17.812390+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1179,7 +1179,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:19.078097+00:00",
+      "verifiedAt": "2026-09-19T20:45:26.606158+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1198,7 +1198,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:46.011888+00:00",
+      "verifiedAt": "2026-09-19T20:45:52.699568+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1217,7 +1217,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:52.751334+00:00",
+      "verifiedAt": "2026-09-19T20:45:59.334435+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1236,7 +1236,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:47.217239+00:00",
+      "verifiedAt": "2026-09-19T20:45:53.886536+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1255,7 +1255,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:18.975905+00:00",
+      "verifiedAt": "2026-09-19T20:45:26.509298+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1274,7 +1274,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:52.357684+00:00",
+      "verifiedAt": "2026-09-19T20:45:58.962708+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1293,7 +1293,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:10.261111+00:00",
+      "verifiedAt": "2026-09-19T20:45:17.973333+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1312,7 +1312,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:12.841730+00:00",
+      "verifiedAt": "2026-09-19T20:45:20.407786+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1331,7 +1331,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:24.719595+00:00",
+      "verifiedAt": "2026-09-19T20:45:32.024483+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1350,7 +1350,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:13.361313+00:00",
+      "verifiedAt": "2026-09-19T20:45:20.898292+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1369,7 +1369,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:18.776883+00:00",
+      "verifiedAt": "2026-09-19T20:45:26.317850+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1388,7 +1388,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:53.406449+00:00",
+      "verifiedAt": "2026-09-19T20:45:59.992540+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1407,7 +1407,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:53.874518+00:00",
+      "verifiedAt": "2026-09-19T20:46:00.463136+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1426,7 +1426,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:53.965933+00:00",
+      "verifiedAt": "2026-09-19T20:46:00.556467+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1445,7 +1445,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:19.278353+00:00",
+      "verifiedAt": "2026-09-19T20:45:26.798528+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1464,7 +1464,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:53.033393+00:00",
+      "verifiedAt": "2026-09-19T20:45:59.617686+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1483,7 +1483,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:18.875276+00:00",
+      "verifiedAt": "2026-09-19T20:45:26.413440+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1502,7 +1502,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:22.283366+00:00",
+      "verifiedAt": "2026-09-19T20:45:29.663873+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1521,7 +1521,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:53.126150+00:00",
+      "verifiedAt": "2026-09-19T20:45:59.712334+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1540,7 +1540,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:53.596882+00:00",
+      "verifiedAt": "2026-09-19T20:46:00.181366+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1559,7 +1559,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:53.782547+00:00",
+      "verifiedAt": "2026-09-19T20:46:00.369511+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1578,7 +1578,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:25.510394+00:00",
+      "verifiedAt": "2026-09-19T20:45:32.770149+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1597,7 +1597,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:52.846330+00:00",
+      "verifiedAt": "2026-09-19T20:45:59.428255+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1616,7 +1616,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:24.920750+00:00",
+      "verifiedAt": "2026-09-19T20:45:32.211282+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1635,7 +1635,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:23.158430+00:00",
+      "verifiedAt": "2026-09-19T20:45:30.509875+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1654,7 +1654,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:18.192229+00:00",
+      "verifiedAt": "2026-09-19T20:45:25.728797+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1673,7 +1673,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:19.882503+00:00",
+      "verifiedAt": "2026-09-19T20:45:27.373261+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1692,7 +1692,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:24.032832+00:00",
+      "verifiedAt": "2026-09-19T20:45:31.359240+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1711,7 +1711,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:45.832769+00:00",
+      "verifiedAt": "2026-09-19T20:45:52.532487+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1730,7 +1730,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:45.923148+00:00",
+      "verifiedAt": "2026-09-19T20:45:52.615873+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1749,7 +1749,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:52.556697+00:00",
+      "verifiedAt": "2026-09-19T20:45:59.149071+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1768,7 +1768,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:52.654422+00:00",
+      "verifiedAt": "2026-09-19T20:45:59.241677+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1787,7 +1787,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:19.982847+00:00",
+      "verifiedAt": "2026-09-19T20:45:27.470109+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1806,7 +1806,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:53.313285+00:00",
+      "verifiedAt": "2026-09-19T20:45:59.900034+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1825,7 +1825,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:53.689684+00:00",
+      "verifiedAt": "2026-09-19T20:46:00.274807+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1844,7 +1844,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:57.148738+00:00",
+      "verifiedAt": "2026-09-19T20:46:03.776437+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1863,7 +1863,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:18.386016+00:00",
+      "verifiedAt": "2026-09-19T20:45:25.921812+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1882,7 +1882,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:18.580495+00:00",
+      "verifiedAt": "2026-09-19T20:45:26.125811+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1901,7 +1901,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:14.021684+00:00",
+      "verifiedAt": "2026-09-19T20:45:21.548805+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1920,7 +1920,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:46.184618+00:00",
+      "verifiedAt": "2026-09-19T20:45:52.867908+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1939,7 +1939,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:54.518475+00:00",
+      "verifiedAt": "2026-09-19T20:46:01.126658+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1958,7 +1958,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:25.998916+00:00",
+      "verifiedAt": "2026-09-19T20:45:33.235159+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1977,7 +1977,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:24.131346+00:00",
+      "verifiedAt": "2026-09-19T20:45:31.456030+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1996,7 +1996,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:57.245661+00:00",
+      "verifiedAt": "2026-09-19T20:46:03.869209+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2015,7 +2015,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:25.217417+00:00",
+      "verifiedAt": "2026-09-19T20:45:32.490467+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2034,7 +2034,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:25.117554+00:00",
+      "verifiedAt": "2026-09-19T20:45:32.397236+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2053,7 +2053,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:46.444790+00:00",
+      "verifiedAt": "2026-09-19T20:45:53.120925+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2072,7 +2072,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:54.706071+00:00",
+      "verifiedAt": "2026-09-19T20:46:01.317777+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2091,7 +2091,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:54.981675+00:00",
+      "verifiedAt": "2026-09-19T20:46:01.605097+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2110,7 +2110,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:55.450419+00:00",
+      "verifiedAt": "2026-09-19T20:46:02.088361+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2129,7 +2129,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:13.611213+00:00",
+      "verifiedAt": "2026-09-19T20:45:21.140526+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2148,7 +2148,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:53.501482+00:00",
+      "verifiedAt": "2026-09-19T20:46:00.087001+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2167,7 +2167,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:25.018141+00:00",
+      "verifiedAt": "2026-09-19T20:45:32.303843+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2186,7 +2186,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:25.315897+00:00",
+      "verifiedAt": "2026-09-19T20:45:32.584354+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2205,7 +2205,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:10.582288+00:00",
+      "verifiedAt": "2026-09-19T20:45:18.211852+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2224,7 +2224,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:19.782881+00:00",
+      "verifiedAt": "2026-09-19T20:45:27.276885+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2243,7 +2243,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:20.081492+00:00",
+      "verifiedAt": "2026-09-19T20:45:27.566831+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2262,7 +2262,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:46.270707+00:00",
+      "verifiedAt": "2026-09-19T20:45:52.951915+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2281,7 +2281,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:46.355851+00:00",
+      "verifiedAt": "2026-09-19T20:45:53.036300+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2300,7 +2300,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:24.525738+00:00",
+      "verifiedAt": "2026-09-19T20:45:31.836848+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2319,7 +2319,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:26.394173+00:00",
+      "verifiedAt": "2026-09-19T20:45:33.610346+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2338,7 +2338,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:54.798417+00:00",
+      "verifiedAt": "2026-09-19T20:46:01.413971+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2357,7 +2357,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:55.356831+00:00",
+      "verifiedAt": "2026-09-19T20:46:01.992525+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2376,7 +2376,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:25.899898+00:00",
+      "verifiedAt": "2026-09-19T20:45:33.142917+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2395,26 +2395,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:13.938846+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0GXCMKJ59",
-      "title": "iSANMATE Carbon Fiber ASA Filament 1.75mm, ASA CF Bundle UV/Rain/Heat Resistant Tough 3D Printer Filament, Perfect for Outdoor Functional Parts, Black 3KG",
-      "url": "https://www.amazon.com/dp/B0GXCMKJ59",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0GXCMKJ59.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "ASA",
-      "price": 80.0,
-      "priceIls": 244.0,
-      "priceDisplay": "$80 · ₪244",
-      "oldPrice": 89.0,
-      "oldPriceDisplay": "$89 · ₪271",
-      "discount": 10.11,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:10.341056+00:00",
+      "verifiedAt": "2026-09-19T20:45:21.466450+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2433,7 +2414,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:19.582845+00:00",
+      "verifiedAt": "2026-09-19T20:45:27.085194+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2452,7 +2433,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:19.683480+00:00",
+      "verifiedAt": "2026-09-19T20:45:27.181082+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2471,7 +2452,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:25.607981+00:00",
+      "verifiedAt": "2026-09-19T20:45:32.863535+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2490,7 +2471,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:26.098246+00:00",
+      "verifiedAt": "2026-09-19T20:45:33.327052+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2509,7 +2490,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:26.196430+00:00",
+      "verifiedAt": "2026-09-19T20:45:33.419668+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2528,7 +2509,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:54.152553+00:00",
+      "verifiedAt": "2026-09-19T20:46:00.745104+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2547,7 +2528,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:19.178922+00:00",
+      "verifiedAt": "2026-09-19T20:45:26.703013+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2566,7 +2547,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:19.377980+00:00",
+      "verifiedAt": "2026-09-19T20:45:26.894139+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2585,7 +2566,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:45.475127+00:00",
+      "verifiedAt": "2026-09-19T20:45:52.199956+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2604,7 +2585,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:22.671238+00:00",
+      "verifiedAt": "2026-09-19T20:45:30.041670+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2623,7 +2604,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:22.864599+00:00",
+      "verifiedAt": "2026-09-19T20:45:30.228205+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2642,7 +2623,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:26.985587+00:00",
+      "verifiedAt": "2026-09-19T20:45:34.185007+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2661,7 +2642,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:13.192875+00:00",
+      "verifiedAt": "2026-09-19T20:45:20.734428+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2680,7 +2661,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:46.530084+00:00",
+      "verifiedAt": "2026-09-19T20:45:53.204801+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2699,7 +2680,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:53.219860+00:00",
+      "verifiedAt": "2026-09-19T20:45:59.806544+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2718,7 +2699,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:54.427255+00:00",
+      "verifiedAt": "2026-09-19T20:46:01.031115+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2737,7 +2718,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:55.074631+00:00",
+      "verifiedAt": "2026-09-19T20:46:01.702360+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2756,7 +2737,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:55.263450+00:00",
+      "verifiedAt": "2026-09-19T20:46:01.897983+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2775,7 +2756,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:25.413681+00:00",
+      "verifiedAt": "2026-09-19T20:45:32.676879+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2794,7 +2775,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:23.354638+00:00",
+      "verifiedAt": "2026-09-19T20:45:30.699167+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2813,7 +2794,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:25.704082+00:00",
+      "verifiedAt": "2026-09-19T20:45:32.956870+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2832,7 +2813,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:26.492140+00:00",
+      "verifiedAt": "2026-09-19T20:45:33.707830+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2851,7 +2832,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:54.245216+00:00",
+      "verifiedAt": "2026-09-19T20:46:00.839522+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2870,7 +2851,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:54.612102+00:00",
+      "verifiedAt": "2026-09-19T20:46:01.222010+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2889,7 +2870,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:23.548224+00:00",
+      "verifiedAt": "2026-09-19T20:45:30.886744+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2908,7 +2889,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:27.082557+00:00",
+      "verifiedAt": "2026-09-19T20:45:34.278805+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2927,7 +2908,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:23.256584+00:00",
+      "verifiedAt": "2026-09-19T20:45:30.604013+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2946,7 +2927,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:20.183579+00:00",
+      "verifiedAt": "2026-09-19T20:45:27.662612+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2965,7 +2946,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:54.058456+00:00",
+      "verifiedAt": "2026-09-19T20:46:00.650336+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2984,7 +2965,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:46.786927+00:00",
+      "verifiedAt": "2026-09-19T20:45:53.462727+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3003,7 +2984,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:20.286629+00:00",
+      "verifiedAt": "2026-09-19T20:45:27.758772+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3022,7 +3003,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:20.484616+00:00",
+      "verifiedAt": "2026-09-19T20:45:27.951048+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3041,7 +3022,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:26.690959+00:00",
+      "verifiedAt": "2026-09-19T20:45:33.897959+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3060,7 +3041,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:55.169408+00:00",
+      "verifiedAt": "2026-09-19T20:46:01.798843+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3079,7 +3060,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:25.802170+00:00",
+      "verifiedAt": "2026-09-19T20:45:33.049887+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3098,7 +3079,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:19.479401+00:00",
+      "verifiedAt": "2026-09-19T20:45:26.989524+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3117,7 +3098,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:23.645407+00:00",
+      "verifiedAt": "2026-09-19T20:45:30.980635+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3136,7 +3117,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:54.889745+00:00",
+      "verifiedAt": "2026-09-19T20:46:01.509204+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3155,7 +3136,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:55.832724+00:00",
+      "verifiedAt": "2026-09-19T20:46:02.472010+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3174,7 +3155,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:20.586978+00:00",
+      "verifiedAt": "2026-09-19T20:45:28.048335+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3193,7 +3174,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:13.528286+00:00",
+      "verifiedAt": "2026-09-19T20:45:21.059998+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3212,7 +3193,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:20.385843+00:00",
+      "verifiedAt": "2026-09-19T20:45:27.854687+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3231,7 +3212,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:13.445186+00:00",
+      "verifiedAt": "2026-09-19T20:45:20.979304+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3250,7 +3231,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:46.874166+00:00",
+      "verifiedAt": "2026-09-19T20:45:53.548354+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3269,7 +3250,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:56.114852+00:00",
+      "verifiedAt": "2026-09-19T20:46:02.749718+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3288,7 +3269,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:20.683229+00:00",
+      "verifiedAt": "2026-09-19T20:45:28.141739+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3307,7 +3288,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:20.780084+00:00",
+      "verifiedAt": "2026-09-19T20:45:28.234632+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3326,7 +3307,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:46.700826+00:00",
+      "verifiedAt": "2026-09-19T20:45:53.375794+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3345,7 +3326,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:56.678977+00:00",
+      "verifiedAt": "2026-09-19T20:46:03.306597+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3364,7 +3345,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:56.771965+00:00",
+      "verifiedAt": "2026-09-19T20:46:03.399867+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3383,7 +3364,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:57.629691+00:00",
+      "verifiedAt": "2026-09-19T20:46:04.243197+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3402,7 +3383,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:54.336497+00:00",
+      "verifiedAt": "2026-09-19T20:46:00.935398+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3421,7 +3402,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:24.817613+00:00",
+      "verifiedAt": "2026-09-19T20:45:32.117985+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3440,7 +3421,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:46.959834+00:00",
+      "verifiedAt": "2026-09-19T20:45:53.633814+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3459,7 +3440,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:55.544262+00:00",
+      "verifiedAt": "2026-09-19T20:46:02.184462+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3478,7 +3459,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:55.738405+00:00",
+      "verifiedAt": "2026-09-19T20:46:02.376126+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3497,7 +3478,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:57.342198+00:00",
+      "verifiedAt": "2026-09-19T20:46:03.962689+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3516,7 +3497,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:20.883013+00:00",
+      "verifiedAt": "2026-09-19T20:45:28.327271+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3535,7 +3516,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:26.790785+00:00",
+      "verifiedAt": "2026-09-19T20:45:33.994772+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3554,7 +3535,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:23.935427+00:00",
+      "verifiedAt": "2026-09-19T20:45:31.264603+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3573,7 +3554,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:23.451858+00:00",
+      "verifiedAt": "2026-09-19T20:45:30.792679+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3592,7 +3573,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:47.389831+00:00",
+      "verifiedAt": "2026-09-19T20:45:54.055479+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3611,7 +3592,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:10.742297+00:00",
+      "verifiedAt": "2026-09-19T20:45:18.371086+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3630,7 +3611,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:20.979706+00:00",
+      "verifiedAt": "2026-09-19T20:45:28.421473+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3649,7 +3630,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:55.926630+00:00",
+      "verifiedAt": "2026-09-19T20:46:02.566017+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3668,7 +3649,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:56.208630+00:00",
+      "verifiedAt": "2026-09-19T20:46:02.842982+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3687,7 +3668,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:57.723883+00:00",
+      "verifiedAt": "2026-09-19T20:46:04.336293+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3706,7 +3687,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:24.330253+00:00",
+      "verifiedAt": "2026-09-19T20:45:31.648696+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3725,7 +3706,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:24.427893+00:00",
+      "verifiedAt": "2026-09-19T20:45:31.742959+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3744,7 +3725,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:27.374928+00:00",
+      "verifiedAt": "2026-09-19T20:45:34.568455+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3763,7 +3744,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:56.584353+00:00",
+      "verifiedAt": "2026-09-19T20:46:03.214192+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3782,7 +3763,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:13.693446+00:00",
+      "verifiedAt": "2026-09-19T20:45:21.221026+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3801,7 +3782,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:56.395977+00:00",
+      "verifiedAt": "2026-09-19T20:46:03.028852+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3820,7 +3801,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:56.489622+00:00",
+      "verifiedAt": "2026-09-19T20:46:03.122196+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3839,7 +3820,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:18.679373+00:00",
+      "verifiedAt": "2026-09-19T20:45:26.222294+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3858,7 +3839,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:55.642024+00:00",
+      "verifiedAt": "2026-09-19T20:46:02.280398+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3877,7 +3858,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:26.592540+00:00",
+      "verifiedAt": "2026-09-19T20:45:33.803733+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3896,7 +3877,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:26.295181+00:00",
+      "verifiedAt": "2026-09-19T20:45:33.515189+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3915,7 +3896,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:26.888186+00:00",
+      "verifiedAt": "2026-09-19T20:45:34.091170+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3934,7 +3915,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:21.402828+00:00",
+      "verifiedAt": "2026-09-19T20:45:28.794192+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3953,7 +3934,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:57.437624+00:00",
+      "verifiedAt": "2026-09-19T20:46:04.055860+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3972,7 +3953,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:27.471448+00:00",
+      "verifiedAt": "2026-09-19T20:45:34.663599+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3991,7 +3972,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:10.662230+00:00",
+      "verifiedAt": "2026-09-19T20:45:18.291032+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4010,7 +3991,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:27.180211+00:00",
+      "verifiedAt": "2026-09-19T20:45:34.375488+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4029,7 +4010,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:56.302128+00:00",
+      "verifiedAt": "2026-09-19T20:46:02.936015+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4048,7 +4029,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:21.076272+00:00",
+      "verifiedAt": "2026-09-19T20:45:28.514959+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4067,7 +4048,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:21.177516+00:00",
+      "verifiedAt": "2026-09-19T20:45:28.608797+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4086,7 +4067,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:56.020977+00:00",
+      "verifiedAt": "2026-09-19T20:46:02.657279+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4105,7 +4086,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:56.867013+00:00",
+      "verifiedAt": "2026-09-19T20:46:03.493912+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4124,7 +4105,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:46.615495+00:00",
+      "verifiedAt": "2026-09-19T20:45:53.289849+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4143,7 +4124,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:57.532978+00:00",
+      "verifiedAt": "2026-09-19T20:46:04.149544+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4162,7 +4143,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:21.300527+00:00",
+      "verifiedAt": "2026-09-19T20:45:28.701981+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4181,7 +4162,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:13.775034+00:00",
+      "verifiedAt": "2026-09-19T20:45:21.302385+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4200,7 +4181,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:27.276379+00:00",
+      "verifiedAt": "2026-09-19T20:45:34.472236+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4219,7 +4200,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:50.048353+00:00",
+      "verifiedAt": "2026-09-19T20:45:56.701514+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4238,7 +4219,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:50.476563+00:00",
+      "verifiedAt": "2026-09-19T20:45:57.126780+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4257,7 +4238,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:02.065942+00:00",
+      "verifiedAt": "2026-09-19T20:46:08.557785+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4276,7 +4257,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:11.987460+00:00",
+      "verifiedAt": "2026-09-19T20:46:18.230521+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4295,7 +4276,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:48.084025+00:00",
+      "verifiedAt": "2026-09-19T20:45:54.735849+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4314,7 +4295,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:48.931384+00:00",
+      "verifiedAt": "2026-09-19T20:45:55.579252+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4333,7 +4314,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:09.392452+00:00",
+      "verifiedAt": "2026-09-19T20:46:15.691964+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0H4YXJMKT",
+      "title": "GIANTARM Black PLA 3D Printer Filament 1kg Spool, 1.75mm +/-0.03mm, 1080 Feet per Roll, Vacuum Packaging(PLA-Black)",
+      "url": "https://www.amazon.com/dp/B0H4YXJMKT",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H4YXJMKT.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 14.0,
+      "priceIls": 43.0,
+      "priceDisplay": "$14 · ₪43",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-09-19T20:46:18.884480+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4352,7 +4352,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:49.876209+00:00",
+      "verifiedAt": "2026-09-19T20:45:56.530144+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4371,7 +4371,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:01.012807+00:00",
+      "verifiedAt": "2026-09-19T20:46:07.526086+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4390,7 +4390,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:02.161826+00:00",
+      "verifiedAt": "2026-09-19T20:46:08.651054+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4409,7 +4409,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:09.294226+00:00",
+      "verifiedAt": "2026-09-19T20:46:15.595476+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4428,7 +4428,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:10.743127+00:00",
+      "verifiedAt": "2026-09-19T20:46:17.014768+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4447,7 +4447,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:14.074260+00:00",
+      "verifiedAt": "2026-09-19T20:46:20.475586+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4466,7 +4466,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:48.594454+00:00",
+      "verifiedAt": "2026-09-19T20:45:55.239793+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4485,7 +4485,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:48.679363+00:00",
+      "verifiedAt": "2026-09-19T20:45:55.323470+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4504,7 +4504,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:48.763987+00:00",
+      "verifiedAt": "2026-09-19T20:45:55.407593+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4523,7 +4523,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:49.101655+00:00",
+      "verifiedAt": "2026-09-19T20:45:55.751462+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4542,7 +4542,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:49.272259+00:00",
+      "verifiedAt": "2026-09-19T20:45:55.921954+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4561,7 +4561,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:49.443498+00:00",
+      "verifiedAt": "2026-09-19T20:45:56.094812+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4580,7 +4580,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:49.530769+00:00",
+      "verifiedAt": "2026-09-19T20:45:56.190352+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4599,7 +4599,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:49.615881+00:00",
+      "verifiedAt": "2026-09-19T20:45:56.276456+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4618,7 +4618,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:49.700220+00:00",
+      "verifiedAt": "2026-09-19T20:45:56.362555+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4637,7 +4637,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:50.221550+00:00",
+      "verifiedAt": "2026-09-19T20:45:56.871847+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4656,7 +4656,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:50.306063+00:00",
+      "verifiedAt": "2026-09-19T20:45:56.956867+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4675,7 +4675,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:50.913077+00:00",
+      "verifiedAt": "2026-09-19T20:45:57.553821+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4694,7 +4694,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:51.086496+00:00",
+      "verifiedAt": "2026-09-19T20:45:57.724820+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4713,7 +4713,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:51.173439+00:00",
+      "verifiedAt": "2026-09-19T20:45:57.810281+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4732,7 +4732,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:51.258532+00:00",
+      "verifiedAt": "2026-09-19T20:45:57.895119+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4751,7 +4751,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:51.344473+00:00",
+      "verifiedAt": "2026-09-19T20:45:57.979529+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4770,7 +4770,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:04.658428+00:00",
+      "verifiedAt": "2026-09-19T20:46:11.091027+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4789,7 +4789,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:07.078225+00:00",
+      "verifiedAt": "2026-09-19T20:46:13.441662+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4808,7 +4808,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:14.269852+00:00",
+      "verifiedAt": "2026-09-19T20:46:20.664286+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4827,7 +4827,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:43.507190+00:00",
+      "verifiedAt": "2026-09-19T20:45:50.256671+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4846,7 +4846,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:51.699556+00:00",
+      "verifiedAt": "2026-09-19T20:45:58.318482+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4865,7 +4865,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:01.491193+00:00",
+      "verifiedAt": "2026-09-19T20:46:07.999740+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4884,7 +4884,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:05.814959+00:00",
+      "verifiedAt": "2026-09-19T20:46:12.223545+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4903,7 +4903,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:06.105205+00:00",
+      "verifiedAt": "2026-09-19T20:46:12.504277+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4922,7 +4922,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:06.396672+00:00",
+      "verifiedAt": "2026-09-19T20:46:12.785886+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4941,7 +4941,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:08.428282+00:00",
+      "verifiedAt": "2026-09-19T20:46:14.754313+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4960,7 +4960,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:08.524233+00:00",
+      "verifiedAt": "2026-09-19T20:46:14.847762+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4979,7 +4979,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:09.100187+00:00",
+      "verifiedAt": "2026-09-19T20:46:15.407665+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4998,7 +4998,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:09.584490+00:00",
+      "verifiedAt": "2026-09-19T20:46:15.882509+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5017,7 +5017,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:09.680993+00:00",
+      "verifiedAt": "2026-09-19T20:46:15.976345+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5036,7 +5036,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:10.166617+00:00",
+      "verifiedAt": "2026-09-19T20:46:16.448376+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5055,7 +5055,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:11.126291+00:00",
+      "verifiedAt": "2026-09-19T20:46:17.389239+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5074,7 +5074,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:12.182858+00:00",
+      "verifiedAt": "2026-09-19T20:46:18.418928+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5093,7 +5093,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:12.374096+00:00",
+      "verifiedAt": "2026-09-19T20:46:18.604120+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5112,7 +5112,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:14.746800+00:00",
+      "verifiedAt": "2026-09-19T20:46:21.128652+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5131,7 +5131,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:15.134952+00:00",
+      "verifiedAt": "2026-09-19T20:46:21.502487+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5150,7 +5150,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:15.620841+00:00",
+      "verifiedAt": "2026-09-19T20:46:21.974908+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5169,7 +5169,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:11.416438+00:00",
+      "verifiedAt": "2026-09-19T20:45:19.023105+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5188,7 +5188,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:38.903754+00:00",
+      "verifiedAt": "2026-09-19T20:45:45.780888+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5207,7 +5207,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:48.427677+00:00",
+      "verifiedAt": "2026-09-19T20:45:55.071950+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5226,7 +5226,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:48.511210+00:00",
+      "verifiedAt": "2026-09-19T20:45:55.155824+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5245,7 +5245,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:49.187029+00:00",
+      "verifiedAt": "2026-09-19T20:45:55.836506+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5264,7 +5264,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:59.460221+00:00",
+      "verifiedAt": "2026-09-19T20:46:06.010710+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5283,7 +5283,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:01.396577+00:00",
+      "verifiedAt": "2026-09-19T20:46:07.905757+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5302,7 +5302,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:01.876085+00:00",
+      "verifiedAt": "2026-09-19T20:46:08.372910+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5321,7 +5321,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:04.175984+00:00",
+      "verifiedAt": "2026-09-19T20:46:10.623933+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5340,7 +5340,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:05.715219+00:00",
+      "verifiedAt": "2026-09-19T20:46:12.129878+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5359,7 +5359,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:08.139798+00:00",
+      "verifiedAt": "2026-09-19T20:46:14.473179+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5378,7 +5378,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:11.315730+00:00",
+      "verifiedAt": "2026-09-19T20:46:17.578392+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5397,7 +5397,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:11.604683+00:00",
+      "verifiedAt": "2026-09-19T20:46:17.859495+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5416,7 +5416,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:11.700212+00:00",
+      "verifiedAt": "2026-09-19T20:46:17.952974+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5435,7 +5435,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:11.796201+00:00",
+      "verifiedAt": "2026-09-19T20:46:18.046055+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5454,7 +5454,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:12.566674+00:00",
+      "verifiedAt": "2026-09-19T20:46:18.790912+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5473,7 +5473,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:13.316521+00:00",
+      "verifiedAt": "2026-09-19T20:46:19.725114+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5492,7 +5492,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:12.004953+00:00",
+      "verifiedAt": "2026-09-19T20:45:19.594658+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5511,7 +5511,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:15.189352+00:00",
+      "verifiedAt": "2026-09-19T20:45:22.711307+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5530,7 +5530,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:38.006372+00:00",
+      "verifiedAt": "2026-09-19T20:45:44.897753+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5549,7 +5549,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:49.357648+00:00",
+      "verifiedAt": "2026-09-19T20:45:56.009477+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5568,7 +5568,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:07.849026+00:00",
+      "verifiedAt": "2026-09-19T20:46:14.193819+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5587,7 +5587,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:11.892127+00:00",
+      "verifiedAt": "2026-09-19T20:46:18.138782+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5606,7 +5606,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:12.845551+00:00",
+      "verifiedAt": "2026-09-19T20:46:19.257260+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5625,7 +5625,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:12.091390+00:00",
+      "verifiedAt": "2026-09-19T20:45:19.675378+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5644,7 +5644,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:14.780299+00:00",
+      "verifiedAt": "2026-09-19T20:45:22.283353+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5663,7 +5663,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:15.844025+00:00",
+      "verifiedAt": "2026-09-19T20:45:23.401414+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5682,7 +5682,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:15.924586+00:00",
+      "verifiedAt": "2026-09-19T20:45:23.485212+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5701,7 +5701,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:16.729306+00:00",
+      "verifiedAt": "2026-09-19T20:45:24.298120+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5720,7 +5720,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:37.198749+00:00",
+      "verifiedAt": "2026-09-19T20:45:44.123750+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5739,7 +5739,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:38.606915+00:00",
+      "verifiedAt": "2026-09-19T20:45:45.485702+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5758,7 +5758,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:38.706069+00:00",
+      "verifiedAt": "2026-09-19T20:45:45.583860+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5777,7 +5777,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:48.256809+00:00",
+      "verifiedAt": "2026-09-19T20:45:54.903941+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5796,7 +5796,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:48.847300+00:00",
+      "verifiedAt": "2026-09-19T20:45:55.493047+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5815,7 +5815,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:49.962781+00:00",
+      "verifiedAt": "2026-09-19T20:45:56.615840+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5834,7 +5834,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:59.362731+00:00",
+      "verifiedAt": "2026-09-19T20:46:05.917206+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5853,7 +5853,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:00.044336+00:00",
+      "verifiedAt": "2026-09-19T20:46:06.567666+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5872,7 +5872,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:00.337887+00:00",
+      "verifiedAt": "2026-09-19T20:46:06.848311+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5891,7 +5891,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:00.431403+00:00",
+      "verifiedAt": "2026-09-19T20:46:06.941925+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5910,7 +5910,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:03.885314+00:00",
+      "verifiedAt": "2026-09-19T20:46:10.341998+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5929,7 +5929,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:05.240740+00:00",
+      "verifiedAt": "2026-09-19T20:46:11.654400+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5948,7 +5948,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:06.589972+00:00",
+      "verifiedAt": "2026-09-19T20:46:12.973958+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5967,7 +5967,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:06.885804+00:00",
+      "verifiedAt": "2026-09-19T20:46:13.254461+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5986,7 +5986,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:07.272223+00:00",
+      "verifiedAt": "2026-09-19T20:46:13.632875+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6005,7 +6005,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:07.561875+00:00",
+      "verifiedAt": "2026-09-19T20:46:13.913983+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6024,7 +6024,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:07.657955+00:00",
+      "verifiedAt": "2026-09-19T20:46:14.008172+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6043,7 +6043,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:07.753754+00:00",
+      "verifiedAt": "2026-09-19T20:46:14.101223+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6062,7 +6062,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:07.946878+00:00",
+      "verifiedAt": "2026-09-19T20:46:14.286922+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6081,7 +6081,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:09.777375+00:00",
+      "verifiedAt": "2026-09-19T20:46:16.071435+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6100,7 +6100,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:10.069831+00:00",
+      "verifiedAt": "2026-09-19T20:46:16.354896+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6119,7 +6119,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:10.263846+00:00",
+      "verifiedAt": "2026-09-19T20:46:16.542387+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6138,7 +6138,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:10.548680+00:00",
+      "verifiedAt": "2026-09-19T20:46:16.826154+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6157,7 +6157,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:10.646469+00:00",
+      "verifiedAt": "2026-09-19T20:46:16.919950+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6176,7 +6176,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:11.030638+00:00",
+      "verifiedAt": "2026-09-19T20:46:17.296359+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6195,7 +6195,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:11.221682+00:00",
+      "verifiedAt": "2026-09-19T20:46:17.483211+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6214,7 +6214,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:11.410812+00:00",
+      "verifiedAt": "2026-09-19T20:46:17.673399+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6233,7 +6233,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:12.277870+00:00",
+      "verifiedAt": "2026-09-19T20:46:18.511564+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6252,7 +6252,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:14.365840+00:00",
+      "verifiedAt": "2026-09-19T20:46:20.758117+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6271,7 +6271,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:14.554954+00:00",
+      "verifiedAt": "2026-09-19T20:46:20.943386+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6290,7 +6290,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:14.649802+00:00",
+      "verifiedAt": "2026-09-19T20:46:21.036129+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6309,7 +6309,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:14.843823+00:00",
+      "verifiedAt": "2026-09-19T20:46:21.221257+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6328,7 +6328,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:15.424663+00:00",
+      "verifiedAt": "2026-09-19T20:46:21.785261+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6347,7 +6347,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:15.717371+00:00",
+      "verifiedAt": "2026-09-19T20:46:22.068697+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6366,7 +6366,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:15.813270+00:00",
+      "verifiedAt": "2026-09-19T20:46:22.161914+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6385,7 +6385,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:15.908688+00:00",
+      "verifiedAt": "2026-09-19T20:46:22.255822+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6404,7 +6404,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:29.050468+00:00",
+      "verifiedAt": "2026-09-19T20:45:36.209125+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6423,7 +6423,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:50.741389+00:00",
+      "verifiedAt": "2026-09-19T20:45:57.381891+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6442,7 +6442,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:51.787265+00:00",
+      "verifiedAt": "2026-09-19T20:45:58.403520+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6461,7 +6461,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:05.527571+00:00",
+      "verifiedAt": "2026-09-19T20:46:11.941828+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6480,7 +6480,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:06.787836+00:00",
+      "verifiedAt": "2026-09-19T20:46:13.161402+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6499,7 +6499,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:10.359496+00:00",
+      "verifiedAt": "2026-09-19T20:46:16.636910+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6518,7 +6518,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:10.838971+00:00",
+      "verifiedAt": "2026-09-19T20:46:17.108515+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6537,7 +6537,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:14.172951+00:00",
+      "verifiedAt": "2026-09-19T20:46:20.569375+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6556,7 +6556,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:11.584380+00:00",
+      "verifiedAt": "2026-09-19T20:45:19.185183+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6575,7 +6575,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:12.428221+00:00",
+      "verifiedAt": "2026-09-19T20:45:19.998291+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6594,7 +6594,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:14.443690+00:00",
+      "verifiedAt": "2026-09-19T20:45:21.953467+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6613,7 +6613,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:14.864007+00:00",
+      "verifiedAt": "2026-09-19T20:45:22.366963+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6632,7 +6632,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:14.946798+00:00",
+      "verifiedAt": "2026-09-19T20:45:22.454506+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6651,7 +6651,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:15.596522+00:00",
+      "verifiedAt": "2026-09-19T20:45:23.132338+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6670,7 +6670,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:15.679605+00:00",
+      "verifiedAt": "2026-09-19T20:45:23.218834+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6689,7 +6689,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:16.487366+00:00",
+      "verifiedAt": "2026-09-19T20:45:24.060066+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6708,7 +6708,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:47.476293+00:00",
+      "verifiedAt": "2026-09-19T20:45:54.140500+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6727,7 +6727,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:48.170207+00:00",
+      "verifiedAt": "2026-09-19T20:45:54.820159+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6746,7 +6746,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:50.655626+00:00",
+      "verifiedAt": "2026-09-19T20:45:57.296378+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6765,7 +6765,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:00.145059+00:00",
+      "verifiedAt": "2026-09-19T20:46:06.660716+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6784,7 +6784,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:00.525858+00:00",
+      "verifiedAt": "2026-09-19T20:46:07.036740+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6803,7 +6803,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:02.827261+00:00",
+      "verifiedAt": "2026-09-19T20:46:09.307387+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6822,7 +6822,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:07.175118+00:00",
+      "verifiedAt": "2026-09-19T20:46:13.538157+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6841,7 +6841,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:08.332542+00:00",
+      "verifiedAt": "2026-09-19T20:46:14.660321+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6860,7 +6860,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:08.812478+00:00",
+      "verifiedAt": "2026-09-19T20:46:15.127999+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6879,7 +6879,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:31.344158+00:00",
+      "verifiedAt": "2026-09-19T20:45:38.428210+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6898,7 +6898,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:41.200648+00:00",
+      "verifiedAt": "2026-09-19T20:45:48.016024+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6917,7 +6917,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:59.656041+00:00",
+      "verifiedAt": "2026-09-19T20:46:06.196592+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6936,7 +6936,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:01.301904+00:00",
+      "verifiedAt": "2026-09-19T20:46:07.810963+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6955,7 +6955,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:01.780079+00:00",
+      "verifiedAt": "2026-09-19T20:46:08.280180+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6974,7 +6974,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:05.337261+00:00",
+      "verifiedAt": "2026-09-19T20:46:11.752030+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6993,7 +6993,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:06.493195+00:00",
+      "verifiedAt": "2026-09-19T20:46:12.880090+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7012,7 +7012,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:09.973026+00:00",
+      "verifiedAt": "2026-09-19T20:46:16.260718+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7031,7 +7031,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:13.222383+00:00",
+      "verifiedAt": "2026-09-19T20:46:19.630648+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7050,7 +7050,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:15.037774+00:00",
+      "verifiedAt": "2026-09-19T20:46:21.409213+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7069,7 +7069,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:30.248654+00:00",
+      "verifiedAt": "2026-09-19T20:45:37.369095+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7088,7 +7088,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:30.944131+00:00",
+      "verifiedAt": "2026-09-19T20:45:38.045120+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7107,7 +7107,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:31.936056+00:00",
+      "verifiedAt": "2026-09-19T20:45:38.997907+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7126,7 +7126,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:38.105314+00:00",
+      "verifiedAt": "2026-09-19T20:45:44.995490+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7145,7 +7145,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:41.697016+00:00",
+      "verifiedAt": "2026-09-19T20:45:48.497779+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7164,7 +7164,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:51.613398+00:00",
+      "verifiedAt": "2026-09-19T20:45:58.234055+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7183,7 +7183,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:59.557955+00:00",
+      "verifiedAt": "2026-09-19T20:46:06.103553+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7202,7 +7202,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:59.852474+00:00",
+      "verifiedAt": "2026-09-19T20:46:06.382471+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7221,7 +7221,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:00.723484+00:00",
+      "verifiedAt": "2026-09-19T20:46:07.225771+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7240,7 +7240,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:00.820614+00:00",
+      "verifiedAt": "2026-09-19T20:46:07.319146+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7259,7 +7259,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:01.587154+00:00",
+      "verifiedAt": "2026-09-19T20:46:08.093421+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7278,7 +7278,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:01.971578+00:00",
+      "verifiedAt": "2026-09-19T20:46:08.465309+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7297,7 +7297,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:03.981745+00:00",
+      "verifiedAt": "2026-09-19T20:46:10.436132+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7316,7 +7316,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:10.933969+00:00",
+      "verifiedAt": "2026-09-19T20:46:17.202047+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7335,7 +7335,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:13.030481+00:00",
+      "verifiedAt": "2026-09-19T20:46:19.442807+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7354,7 +7354,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:13.788513+00:00",
+      "verifiedAt": "2026-09-19T20:46:20.193080+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7373,7 +7373,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:14.460146+00:00",
+      "verifiedAt": "2026-09-19T20:46:20.851175+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7392,7 +7392,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:14.941175+00:00",
+      "verifiedAt": "2026-09-19T20:46:21.314475+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7411,7 +7411,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:15.328788+00:00",
+      "verifiedAt": "2026-09-19T20:46:21.691296+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7430,7 +7430,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:35.693246+00:00",
+      "verifiedAt": "2026-09-19T20:45:42.651118+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7449,7 +7449,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:38.306148+00:00",
+      "verifiedAt": "2026-09-19T20:45:45.190807+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7468,7 +7468,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:41.994317+00:00",
+      "verifiedAt": "2026-09-19T20:45:48.789915+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7487,7 +7487,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:44.005396+00:00",
+      "verifiedAt": "2026-09-19T20:45:50.744452+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7506,7 +7506,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:44.805886+00:00",
+      "verifiedAt": "2026-09-19T20:45:51.523858+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7525,7 +7525,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:49.014792+00:00",
+      "verifiedAt": "2026-09-19T20:45:55.665199+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7544,7 +7544,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:50.562433+00:00",
+      "verifiedAt": "2026-09-19T20:45:57.211443+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7563,7 +7563,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:50.827791+00:00",
+      "verifiedAt": "2026-09-19T20:45:57.467754+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7582,7 +7582,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:59.753272+00:00",
+      "verifiedAt": "2026-09-19T20:46:06.289302+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7601,7 +7601,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:00.623658+00:00",
+      "verifiedAt": "2026-09-19T20:46:07.130921+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7620,7 +7620,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:01.683246+00:00",
+      "verifiedAt": "2026-09-19T20:46:08.186859+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7639,7 +7639,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:02.922335+00:00",
+      "verifiedAt": "2026-09-19T20:46:09.399876+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7658,7 +7658,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:03.398733+00:00",
+      "verifiedAt": "2026-09-19T20:46:09.872923+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7677,7 +7677,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:04.854980+00:00",
+      "verifiedAt": "2026-09-19T20:46:11.276130+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7696,7 +7696,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:05.910971+00:00",
+      "verifiedAt": "2026-09-19T20:46:12.317336+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7715,7 +7715,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:06.686220+00:00",
+      "verifiedAt": "2026-09-19T20:46:13.068162+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7734,7 +7734,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:09.195297+00:00",
+      "verifiedAt": "2026-09-19T20:46:15.500680+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7753,7 +7753,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:13.693829+00:00",
+      "verifiedAt": "2026-09-19T20:46:20.099588+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7772,7 +7772,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:16.166900+00:00",
+      "verifiedAt": "2026-09-19T20:45:23.736084+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7791,7 +7791,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:28.755289+00:00",
+      "verifiedAt": "2026-09-19T20:45:35.917800+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7810,7 +7810,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:28.853623+00:00",
+      "verifiedAt": "2026-09-19T20:45:36.015003+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7829,7 +7829,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:32.328807+00:00",
+      "verifiedAt": "2026-09-19T20:45:39.371403+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7848,7 +7848,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:32.918480+00:00",
+      "verifiedAt": "2026-09-19T20:45:39.943365+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7867,7 +7867,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:35.593185+00:00",
+      "verifiedAt": "2026-09-19T20:45:42.553264+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7886,7 +7886,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:47.649770+00:00",
+      "verifiedAt": "2026-09-19T20:45:54.310488+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7905,7 +7905,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:47.995944+00:00",
+      "verifiedAt": "2026-09-19T20:45:54.647739+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7924,7 +7924,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:48.342656+00:00",
+      "verifiedAt": "2026-09-19T20:45:54.988057+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7943,7 +7943,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:49.787308+00:00",
+      "verifiedAt": "2026-09-19T20:45:56.446081+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7962,7 +7962,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:51.430702+00:00",
+      "verifiedAt": "2026-09-19T20:45:58.063747+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7981,7 +7981,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:58.877854+00:00",
+      "verifiedAt": "2026-09-19T20:46:05.447222+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8000,7 +8000,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:02.351890+00:00",
+      "verifiedAt": "2026-09-19T20:46:08.839865+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8019,7 +8019,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:04.561781+00:00",
+      "verifiedAt": "2026-09-19T20:46:10.997986+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8038,7 +8038,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:08.236282+00:00",
+      "verifiedAt": "2026-09-19T20:46:14.566421+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8057,7 +8057,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:08.717124+00:00",
+      "verifiedAt": "2026-09-19T20:46:15.034482+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8076,7 +8076,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:12.937899+00:00",
+      "verifiedAt": "2026-09-19T20:46:19.349536+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8095,7 +8095,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:15.523184+00:00",
+      "verifiedAt": "2026-09-19T20:46:21.880472+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8114,7 +8114,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:12.345602+00:00",
+      "verifiedAt": "2026-09-19T20:45:19.917539+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8133,7 +8133,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:14.275548+00:00",
+      "verifiedAt": "2026-09-19T20:45:21.792643+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8152,7 +8152,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:14.611210+00:00",
+      "verifiedAt": "2026-09-19T20:45:22.115568+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8171,7 +8171,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:29.749633+00:00",
+      "verifiedAt": "2026-09-19T20:45:36.891351+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8190,7 +8190,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:33.016419+00:00",
+      "verifiedAt": "2026-09-19T20:45:40.038400+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8209,7 +8209,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:37.605589+00:00",
+      "verifiedAt": "2026-09-19T20:45:44.511390+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8228,7 +8228,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:58.299286+00:00",
+      "verifiedAt": "2026-09-19T20:46:04.891045+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8247,7 +8247,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:58.683532+00:00",
+      "verifiedAt": "2026-09-19T20:46:05.261699+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8266,7 +8266,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:59.947924+00:00",
+      "verifiedAt": "2026-09-19T20:46:06.474863+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8285,7 +8285,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:06.299511+00:00",
+      "verifiedAt": "2026-09-19T20:46:12.691410+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8304,7 +8304,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:07.368556+00:00",
+      "verifiedAt": "2026-09-19T20:46:13.726122+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8323,7 +8323,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:11.508131+00:00",
+      "verifiedAt": "2026-09-19T20:46:17.766898+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8342,7 +8342,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:12.085973+00:00",
+      "verifiedAt": "2026-09-19T20:46:18.324608+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8361,7 +8361,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:13.599609+00:00",
+      "verifiedAt": "2026-09-19T20:46:20.005578+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8380,7 +8380,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:15.232214+00:00",
+      "verifiedAt": "2026-09-19T20:46:21.597082+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8399,7 +8399,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:17.052985+00:00",
+      "verifiedAt": "2026-09-19T20:45:24.612930+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8418,7 +8418,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:29.549962+00:00",
+      "verifiedAt": "2026-09-19T20:45:36.696473+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8437,7 +8437,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:29.851602+00:00",
+      "verifiedAt": "2026-09-19T20:45:36.985483+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8456,7 +8456,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:30.354473+00:00",
+      "verifiedAt": "2026-09-19T20:45:37.465509+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8475,7 +8475,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:30.553065+00:00",
+      "verifiedAt": "2026-09-19T20:45:37.659833+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8494,7 +8494,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:30.651160+00:00",
+      "verifiedAt": "2026-09-19T20:45:37.756084+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8513,7 +8513,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:36.295276+00:00",
+      "verifiedAt": "2026-09-19T20:45:43.235909+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8532,7 +8532,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:38.206158+00:00",
+      "verifiedAt": "2026-09-19T20:45:45.092702+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8551,7 +8551,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:42.704574+00:00",
+      "verifiedAt": "2026-09-19T20:45:49.464130+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8570,7 +8570,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:44.608161+00:00",
+      "verifiedAt": "2026-09-19T20:45:51.328348+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8589,7 +8589,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:45.302029+00:00",
+      "verifiedAt": "2026-09-19T20:45:52.030822+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8608,7 +8608,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:58.587664+00:00",
+      "verifiedAt": "2026-09-19T20:46:05.169387+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8627,7 +8627,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:59.070879+00:00",
+      "verifiedAt": "2026-09-19T20:46:05.635423+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8646,7 +8646,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:01.206098+00:00",
+      "verifiedAt": "2026-09-19T20:46:07.715993+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8665,7 +8665,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:02.542668+00:00",
+      "verifiedAt": "2026-09-19T20:46:09.026639+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8684,7 +8684,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:02.732683+00:00",
+      "verifiedAt": "2026-09-19T20:46:09.214766+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8703,7 +8703,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:03.208562+00:00",
+      "verifiedAt": "2026-09-19T20:46:09.683364+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8722,7 +8722,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:05.047623+00:00",
+      "verifiedAt": "2026-09-19T20:46:11.463967+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8741,7 +8741,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:05.432566+00:00",
+      "verifiedAt": "2026-09-19T20:46:11.847026+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8760,7 +8760,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:06.982085+00:00",
+      "verifiedAt": "2026-09-19T20:46:13.348718+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8779,7 +8779,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:12.470252+00:00",
+      "verifiedAt": "2026-09-19T20:46:18.697200+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8798,7 +8798,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:13.128004+00:00",
+      "verifiedAt": "2026-09-19T20:46:19.535737+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8817,7 +8817,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:13.409776+00:00",
+      "verifiedAt": "2026-09-19T20:46:19.819204+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8836,7 +8836,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:13.504702+00:00",
+      "verifiedAt": "2026-09-19T20:46:19.911988+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8855,7 +8855,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:15.026514+00:00",
+      "verifiedAt": "2026-09-19T20:45:22.541864+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8874,7 +8874,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:15.514298+00:00",
+      "verifiedAt": "2026-09-19T20:45:23.048312+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8893,7 +8893,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:16.407038+00:00",
+      "verifiedAt": "2026-09-19T20:45:23.979467+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8912,7 +8912,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:16.888755+00:00",
+      "verifiedAt": "2026-09-19T20:45:24.455943+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8931,7 +8931,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:17.218637+00:00",
+      "verifiedAt": "2026-09-19T20:45:24.771824+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8950,7 +8950,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:28.556857+00:00",
+      "verifiedAt": "2026-09-19T20:45:35.723177+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8969,7 +8969,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:30.748613+00:00",
+      "verifiedAt": "2026-09-19T20:45:37.852909+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8988,7 +8988,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:01.109973+00:00",
+      "verifiedAt": "2026-09-19T20:46:07.621776+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9007,7 +9007,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:04.951315+00:00",
+      "verifiedAt": "2026-09-19T20:46:11.370496+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9026,7 +9026,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:12.661093+00:00",
+      "verifiedAt": "2026-09-19T20:46:19.071477+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9045,7 +9045,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:12.754201+00:00",
+      "verifiedAt": "2026-09-19T20:46:19.164469+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9064,7 +9064,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:14.190344+00:00",
+      "verifiedAt": "2026-09-19T20:45:21.712445+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9083,7 +9083,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:15.270206+00:00",
+      "verifiedAt": "2026-09-19T20:45:22.796117+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9102,7 +9102,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:15.351968+00:00",
+      "verifiedAt": "2026-09-19T20:45:22.880415+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9121,7 +9121,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:16.969058+00:00",
+      "verifiedAt": "2026-09-19T20:45:24.534286+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9140,7 +9140,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:17.135478+00:00",
+      "verifiedAt": "2026-09-19T20:45:24.692614+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9159,7 +9159,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:28.051209+00:00",
+      "verifiedAt": "2026-09-19T20:45:35.240026+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9178,7 +9178,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:28.247899+00:00",
+      "verifiedAt": "2026-09-19T20:45:35.431915+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9197,7 +9197,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:28.656041+00:00",
+      "verifiedAt": "2026-09-19T20:45:35.820682+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9216,7 +9216,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:29.353797+00:00",
+      "verifiedAt": "2026-09-19T20:45:36.500720+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9235,7 +9235,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:29.452628+00:00",
+      "verifiedAt": "2026-09-19T20:45:36.598757+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9254,7 +9254,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:30.143666+00:00",
+      "verifiedAt": "2026-09-19T20:45:37.272646+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9273,7 +9273,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:31.246282+00:00",
+      "verifiedAt": "2026-09-19T20:45:38.332652+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9292,7 +9292,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:31.539609+00:00",
+      "verifiedAt": "2026-09-19T20:45:38.619110+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9311,7 +9311,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:35.094801+00:00",
+      "verifiedAt": "2026-09-19T20:45:42.063457+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9330,7 +9330,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:36.993328+00:00",
+      "verifiedAt": "2026-09-19T20:45:43.927120+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9349,7 +9349,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:38.506951+00:00",
+      "verifiedAt": "2026-09-19T20:45:45.387925+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9368,7 +9368,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:39.003085+00:00",
+      "verifiedAt": "2026-09-19T20:45:45.878140+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9387,7 +9387,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:39.404666+00:00",
+      "verifiedAt": "2026-09-19T20:45:46.272333+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9406,7 +9406,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:41.299204+00:00",
+      "verifiedAt": "2026-09-19T20:45:48.112598+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9425,7 +9425,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:43.408510+00:00",
+      "verifiedAt": "2026-09-19T20:45:50.159612+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9444,7 +9444,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:43.604979+00:00",
+      "verifiedAt": "2026-09-19T20:45:50.353785+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9463,7 +9463,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:47.563041+00:00",
+      "verifiedAt": "2026-09-19T20:45:54.225893+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9482,7 +9482,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:59.265639+00:00",
+      "verifiedAt": "2026-09-19T20:46:05.823241+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9501,7 +9501,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:00.243449+00:00",
+      "verifiedAt": "2026-09-19T20:46:06.754185+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9520,7 +9520,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:02.256550+00:00",
+      "verifiedAt": "2026-09-19T20:46:08.745473+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9539,7 +9539,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:06.203033+00:00",
+      "verifiedAt": "2026-09-19T20:46:12.597326+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9558,7 +9558,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:08.043527+00:00",
+      "verifiedAt": "2026-09-19T20:46:14.380161+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9577,7 +9577,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:08.620463+00:00",
+      "verifiedAt": "2026-09-19T20:46:14.941008+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9596,7 +9596,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:08.908458+00:00",
+      "verifiedAt": "2026-09-19T20:46:15.221697+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9615,7 +9615,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:09.875324+00:00",
+      "verifiedAt": "2026-09-19T20:46:16.166450+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9634,7 +9634,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:13.977030+00:00",
+      "verifiedAt": "2026-09-19T20:46:20.381950+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9653,7 +9653,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:16.005903+00:00",
+      "verifiedAt": "2026-09-19T20:45:23.569815+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9672,7 +9672,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:47.822395+00:00",
+      "verifiedAt": "2026-09-19T20:45:54.479993+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9691,7 +9691,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:47.909567+00:00",
+      "verifiedAt": "2026-09-19T20:45:54.563867+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9710,7 +9710,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:03.787386+00:00",
+      "verifiedAt": "2026-09-19T20:46:10.248101+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9729,7 +9729,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:04.272645+00:00",
+      "verifiedAt": "2026-09-19T20:46:10.718752+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9748,7 +9748,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:30.846344+00:00",
+      "verifiedAt": "2026-09-19T20:45:37.949063+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9767,7 +9767,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:31.441442+00:00",
+      "verifiedAt": "2026-09-19T20:45:38.523605+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9786,7 +9786,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:11.834466+00:00",
+      "verifiedAt": "2026-09-19T20:45:19.429939+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9805,7 +9805,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:12.511750+00:00",
+      "verifiedAt": "2026-09-19T20:45:20.080201+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9824,7 +9824,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:32.720882+00:00",
+      "verifiedAt": "2026-09-19T20:45:39.751225+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9843,7 +9843,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:37.097398+00:00",
+      "verifiedAt": "2026-09-19T20:45:44.025253+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9862,7 +9862,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:50.135690+00:00",
+      "verifiedAt": "2026-09-19T20:45:56.786832+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9881,7 +9881,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:58.203283+00:00",
+      "verifiedAt": "2026-09-19T20:46:04.798861+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9900,7 +9900,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:58.395817+00:00",
+      "verifiedAt": "2026-09-19T20:46:04.983494+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9919,7 +9919,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:16.648033+00:00",
+      "verifiedAt": "2026-09-19T20:45:24.219273+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9938,7 +9938,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:29.650071+00:00",
+      "verifiedAt": "2026-09-19T20:45:36.794303+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9957,7 +9957,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:31.141344+00:00",
+      "verifiedAt": "2026-09-19T20:45:38.237429+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9976,7 +9976,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:33.114870+00:00",
+      "verifiedAt": "2026-09-19T20:45:40.135457+00:00",
       "source": "Deal4Real"
     },
     {
@@ -9995,7 +9995,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:02.447865+00:00",
+      "verifiedAt": "2026-09-19T20:46:08.933152+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10014,7 +10014,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:02.637950+00:00",
+      "verifiedAt": "2026-09-19T20:46:09.120183+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10033,7 +10033,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:04.370086+00:00",
+      "verifiedAt": "2026-09-19T20:46:10.812511+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10052,7 +10052,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:09.488911+00:00",
+      "verifiedAt": "2026-09-19T20:46:15.787531+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10071,7 +10071,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:10.992396+00:00",
+      "verifiedAt": "2026-09-19T20:45:18.611502+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10090,7 +10090,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:11.077114+00:00",
+      "verifiedAt": "2026-09-19T20:45:18.694250+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10109,7 +10109,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:11.162508+00:00",
+      "verifiedAt": "2026-09-19T20:45:18.777134+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10128,7 +10128,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:15.433000+00:00",
+      "verifiedAt": "2026-09-19T20:45:22.964212+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10147,7 +10147,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:30.046613+00:00",
+      "verifiedAt": "2026-09-19T20:45:37.177211+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10166,7 +10166,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:42.398939+00:00",
+      "verifiedAt": "2026-09-19T20:45:49.176898+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10185,7 +10185,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:43.903457+00:00",
+      "verifiedAt": "2026-09-19T20:45:50.646706+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10204,7 +10204,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:51.525583+00:00",
+      "verifiedAt": "2026-09-19T20:45:58.149391+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10223,7 +10223,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:57.817931+00:00",
+      "verifiedAt": "2026-09-19T20:46:04.428990+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10242,7 +10242,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:57.915083+00:00",
+      "verifiedAt": "2026-09-19T20:46:04.521608+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10261,7 +10261,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:58.011028+00:00",
+      "verifiedAt": "2026-09-19T20:46:04.614164+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10280,7 +10280,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:58.106416+00:00",
+      "verifiedAt": "2026-09-19T20:46:04.706095+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10299,7 +10299,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:58.491991+00:00",
+      "verifiedAt": "2026-09-19T20:46:05.076868+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10318,7 +10318,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:58.780387+00:00",
+      "verifiedAt": "2026-09-19T20:46:05.354527+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10337,7 +10337,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:58.975796+00:00",
+      "verifiedAt": "2026-09-19T20:46:05.541024+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10356,7 +10356,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:59.168327+00:00",
+      "verifiedAt": "2026-09-19T20:46:05.728720+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10375,7 +10375,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:00.916881+00:00",
+      "verifiedAt": "2026-09-19T20:46:07.430069+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10394,7 +10394,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:03.017032+00:00",
+      "verifiedAt": "2026-09-19T20:46:09.493463+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10413,7 +10413,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:03.112451+00:00",
+      "verifiedAt": "2026-09-19T20:46:09.588485+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10432,7 +10432,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:03.303902+00:00",
+      "verifiedAt": "2026-09-19T20:46:09.777740+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10451,7 +10451,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:03.496622+00:00",
+      "verifiedAt": "2026-09-19T20:46:09.966966+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10470,7 +10470,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:03.690227+00:00",
+      "verifiedAt": "2026-09-19T20:46:10.154750+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10489,7 +10489,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:04.078338+00:00",
+      "verifiedAt": "2026-09-19T20:46:10.530072+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10508,7 +10508,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:04.758400+00:00",
+      "verifiedAt": "2026-09-19T20:46:11.183500+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10527,7 +10527,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:05.143731+00:00",
+      "verifiedAt": "2026-09-19T20:46:11.559187+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10546,7 +10546,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:05.621372+00:00",
+      "verifiedAt": "2026-09-19T20:46:12.035789+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10565,7 +10565,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:06.007114+00:00",
+      "verifiedAt": "2026-09-19T20:46:12.410868+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10584,7 +10584,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:09.003760+00:00",
+      "verifiedAt": "2026-09-19T20:46:15.314662+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10603,7 +10603,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:10.453957+00:00",
+      "verifiedAt": "2026-09-19T20:46:16.731956+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B08L9NKPFB",
+      "title": "3D-Fuel 3D Filament High Temp Tough Pro PLA+ Aquamarine Blue, Made in USA",
+      "url": "https://www.amazon.com/dp/B08L9NKPFB",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B08L9NKPFB.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA+",
+      "price": 35.0,
+      "priceIls": 106.0,
+      "priceDisplay": "$35 · ₪106",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-09-19T20:46:18.978215+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10622,7 +10641,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:13.883084+00:00",
+      "verifiedAt": "2026-09-19T20:46:20.287539+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10641,7 +10660,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:28.455792+00:00",
+      "verifiedAt": "2026-09-19T20:45:35.625834+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10660,7 +10679,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:32.622899+00:00",
+      "verifiedAt": "2026-09-19T20:45:39.656180+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10679,7 +10698,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:12.593428+00:00",
+      "verifiedAt": "2026-09-19T20:45:20.161550+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10698,7 +10717,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:27.954815+00:00",
+      "verifiedAt": "2026-09-19T20:45:35.144125+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10717,7 +10736,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:43.800883+00:00",
+      "verifiedAt": "2026-09-19T20:45:50.549267+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10736,7 +10755,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:03.593696+00:00",
+      "verifiedAt": "2026-09-19T20:46:10.061348+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10755,7 +10774,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:11.332082+00:00",
+      "verifiedAt": "2026-09-19T20:45:18.941583+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10774,7 +10793,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:15.107580+00:00",
+      "verifiedAt": "2026-09-19T20:45:22.627551+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10793,7 +10812,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:31.042999+00:00",
+      "verifiedAt": "2026-09-19T20:45:38.141504+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10812,7 +10831,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:37.398918+00:00",
+      "verifiedAt": "2026-09-19T20:45:44.318872+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10831,7 +10850,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:40.101521+00:00",
+      "verifiedAt": "2026-09-19T20:45:46.950737+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10850,7 +10869,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:41.597396+00:00",
+      "verifiedAt": "2026-09-19T20:45:48.401858+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10869,7 +10888,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:44.105706+00:00",
+      "verifiedAt": "2026-09-19T20:45:50.842398+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10888,7 +10907,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:11.919317+00:00",
+      "verifiedAt": "2026-09-19T20:45:19.512115+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10907,7 +10926,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:14.105973+00:00",
+      "verifiedAt": "2026-09-19T20:45:21.630954+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10926,7 +10945,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:27.858149+00:00",
+      "verifiedAt": "2026-09-19T20:45:35.046490+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10945,7 +10964,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:32.426245+00:00",
+      "verifiedAt": "2026-09-19T20:45:39.464988+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10964,7 +10983,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:36.595682+00:00",
+      "verifiedAt": "2026-09-19T20:45:43.536924+00:00",
       "source": "Deal4Real"
     },
     {
@@ -10983,7 +11002,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:36.695146+00:00",
+      "verifiedAt": "2026-09-19T20:45:43.635057+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11002,7 +11021,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:36.794297+00:00",
+      "verifiedAt": "2026-09-19T20:45:43.732371+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11021,7 +11040,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:41.895104+00:00",
+      "verifiedAt": "2026-09-19T20:45:48.692240+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11040,7 +11059,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:42.501964+00:00",
+      "verifiedAt": "2026-09-19T20:45:49.272669+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11059,7 +11078,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:42.904106+00:00",
+      "verifiedAt": "2026-09-19T20:45:49.658785+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11078,7 +11097,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:50.999976+00:00",
+      "verifiedAt": "2026-09-19T20:45:57.639885+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11097,7 +11116,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:29.156320+00:00",
+      "verifiedAt": "2026-09-19T20:45:36.305568+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11116,7 +11135,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:32.034311+00:00",
+      "verifiedAt": "2026-09-19T20:45:39.092077+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11135,7 +11154,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:36.394802+00:00",
+      "verifiedAt": "2026-09-19T20:45:43.334007+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11154,7 +11173,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:34.897178+00:00",
+      "verifiedAt": "2026-09-19T20:45:41.867096+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11173,7 +11192,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:14.695844+00:00",
+      "verifiedAt": "2026-09-19T20:45:22.199588+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11192,7 +11211,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:30.455481+00:00",
+      "verifiedAt": "2026-09-19T20:45:37.562803+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11211,7 +11230,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:32.231044+00:00",
+      "verifiedAt": "2026-09-19T20:45:39.277923+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11230,7 +11249,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:34.697818+00:00",
+      "verifiedAt": "2026-09-19T20:45:41.669315+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11249,7 +11268,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:34.398395+00:00",
+      "verifiedAt": "2026-09-19T20:45:41.374786+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11268,7 +11287,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:35.795445+00:00",
+      "verifiedAt": "2026-09-19T20:45:42.748200+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11287,7 +11306,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:39.802869+00:00",
+      "verifiedAt": "2026-09-19T20:45:46.660745+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11306,7 +11325,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:40.002111+00:00",
+      "verifiedAt": "2026-09-19T20:45:46.853990+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11325,7 +11344,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:41.398616+00:00",
+      "verifiedAt": "2026-09-19T20:45:48.208981+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11344,7 +11363,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:42.603796+00:00",
+      "verifiedAt": "2026-09-19T20:45:49.368466+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11363,7 +11382,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:27.666215+00:00",
+      "verifiedAt": "2026-09-19T20:45:34.854406+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11382,7 +11401,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:35.196675+00:00",
+      "verifiedAt": "2026-09-19T20:45:42.162108+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11401,7 +11420,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:44.904337+00:00",
+      "verifiedAt": "2026-09-19T20:45:51.626236+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11420,7 +11439,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:28.348266+00:00",
+      "verifiedAt": "2026-09-19T20:45:35.528515+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11439,7 +11458,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:36.894036+00:00",
+      "verifiedAt": "2026-09-19T20:45:43.828745+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11458,7 +11477,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:43.004001+00:00",
+      "verifiedAt": "2026-09-19T20:45:49.756145+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11477,7 +11496,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:35.995567+00:00",
+      "verifiedAt": "2026-09-19T20:45:42.943586+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11496,7 +11515,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:40.203896+00:00",
+      "verifiedAt": "2026-09-19T20:45:47.046959+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11515,7 +11534,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:10.906603+00:00",
+      "verifiedAt": "2026-09-19T20:45:18.529884+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11534,7 +11553,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:15.762876+00:00",
+      "verifiedAt": "2026-09-19T20:45:23.310278+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11553,7 +11572,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:29.949306+00:00",
+      "verifiedAt": "2026-09-19T20:45:37.080887+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11572,7 +11591,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:33.407266+00:00",
+      "verifiedAt": "2026-09-19T20:45:40.416958+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11591,7 +11610,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:36.094487+00:00",
+      "verifiedAt": "2026-09-19T20:45:43.041320+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11610,7 +11629,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:36.195130+00:00",
+      "verifiedAt": "2026-09-19T20:45:43.138791+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11629,7 +11648,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:39.702507+00:00",
+      "verifiedAt": "2026-09-19T20:45:46.563739+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11648,7 +11667,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:40.401816+00:00",
+      "verifiedAt": "2026-09-19T20:45:47.240312+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11667,7 +11686,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:40.500506+00:00",
+      "verifiedAt": "2026-09-19T20:45:47.335698+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11686,7 +11705,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:42.196653+00:00",
+      "verifiedAt": "2026-09-19T20:45:48.983440+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11705,7 +11724,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:43.206433+00:00",
+      "verifiedAt": "2026-09-19T20:45:49.961737+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11724,7 +11743,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:45.202531+00:00",
+      "verifiedAt": "2026-09-19T20:45:51.933065+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11743,7 +11762,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:04.465903+00:00",
+      "verifiedAt": "2026-09-19T20:46:10.905254+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11762,7 +11781,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:28:07.465087+00:00",
+      "verifiedAt": "2026-09-19T20:46:13.820494+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11781,7 +11800,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:28.950685+00:00",
+      "verifiedAt": "2026-09-19T20:45:36.112214+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11800,7 +11819,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:47.735281+00:00",
+      "verifiedAt": "2026-09-19T20:45:54.395506+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11819,7 +11838,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:39.602227+00:00",
+      "verifiedAt": "2026-09-19T20:45:46.466521+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11838,7 +11857,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:34.500208+00:00",
+      "verifiedAt": "2026-09-19T20:45:41.472266+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11857,7 +11876,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:10.823810+00:00",
+      "verifiedAt": "2026-09-19T20:45:18.450853+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11876,7 +11895,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:11.247357+00:00",
+      "verifiedAt": "2026-09-19T20:45:18.859725+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11895,7 +11914,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:11.668198+00:00",
+      "verifiedAt": "2026-09-19T20:45:19.266710+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11914,7 +11933,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:16.808998+00:00",
+      "verifiedAt": "2026-09-19T20:45:24.377477+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11933,7 +11952,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:35.493613+00:00",
+      "verifiedAt": "2026-09-19T20:45:42.456160+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11952,7 +11971,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:39.303762+00:00",
+      "verifiedAt": "2026-09-19T20:45:46.173954+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11971,7 +11990,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:41.101199+00:00",
+      "verifiedAt": "2026-09-19T20:45:47.919933+00:00",
       "source": "Deal4Real"
     },
     {
@@ -11990,7 +12009,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:42.297757+00:00",
+      "verifiedAt": "2026-09-19T20:45:49.080328+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12009,7 +12028,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:44.509175+00:00",
+      "verifiedAt": "2026-09-19T20:45:51.230754+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12028,7 +12047,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:29.256107+00:00",
+      "verifiedAt": "2026-09-19T20:45:36.401855+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12047,7 +12066,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:38.406380+00:00",
+      "verifiedAt": "2026-09-19T20:45:45.289097+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12066,7 +12085,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:14.359900+00:00",
+      "verifiedAt": "2026-09-19T20:45:21.873048+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12085,7 +12104,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:14.527342+00:00",
+      "verifiedAt": "2026-09-19T20:45:22.034497+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12104,7 +12123,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:28.149150+00:00",
+      "verifiedAt": "2026-09-19T20:45:35.335860+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12123,7 +12142,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:31.835868+00:00",
+      "verifiedAt": "2026-09-19T20:45:38.903334+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12142,7 +12161,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:32.524035+00:00",
+      "verifiedAt": "2026-09-19T20:45:39.560546+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12161,7 +12180,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:34.996088+00:00",
+      "verifiedAt": "2026-09-19T20:45:41.965166+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12180,7 +12199,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:37.297799+00:00",
+      "verifiedAt": "2026-09-19T20:45:44.222219+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12199,7 +12218,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:40.702984+00:00",
+      "verifiedAt": "2026-09-19T20:45:47.531445+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12218,7 +12237,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:41.002413+00:00",
+      "verifiedAt": "2026-09-19T20:45:47.824188+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12237,7 +12256,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:39.204242+00:00",
+      "verifiedAt": "2026-09-19T20:45:46.073159+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12256,7 +12275,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:16.327057+00:00",
+      "verifiedAt": "2026-09-19T20:45:23.899032+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12275,7 +12294,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:32.820943+00:00",
+      "verifiedAt": "2026-09-19T20:45:39.846321+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12294,7 +12313,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:11.751508+00:00",
+      "verifiedAt": "2026-09-19T20:45:19.348171+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12313,7 +12332,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:27.567579+00:00",
+      "verifiedAt": "2026-09-19T20:45:34.759027+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12332,7 +12351,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:40.902786+00:00",
+      "verifiedAt": "2026-09-19T20:45:47.727678+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12351,7 +12370,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:43.308246+00:00",
+      "verifiedAt": "2026-09-19T20:45:50.061409+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12370,7 +12389,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:44.307753+00:00",
+      "verifiedAt": "2026-09-19T20:45:51.036808+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12389,7 +12408,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:31.639116+00:00",
+      "verifiedAt": "2026-09-19T20:45:38.714535+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12408,7 +12427,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:33.212688+00:00",
+      "verifiedAt": "2026-09-19T20:45:40.228783+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12427,7 +12446,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:39.103452+00:00",
+      "verifiedAt": "2026-09-19T20:45:45.974977+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12446,7 +12465,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:39.503637+00:00",
+      "verifiedAt": "2026-09-19T20:45:46.370154+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12465,7 +12484,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:44.206392+00:00",
+      "verifiedAt": "2026-09-19T20:45:50.939423+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12484,7 +12503,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:44.407684+00:00",
+      "verifiedAt": "2026-09-19T20:45:51.133551+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12503,7 +12522,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:12.261801+00:00",
+      "verifiedAt": "2026-09-19T20:45:19.836733+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12522,7 +12541,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:11.501008+00:00",
+      "verifiedAt": "2026-09-19T20:45:19.103976+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12541,7 +12560,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:34.002140+00:00",
+      "verifiedAt": "2026-09-19T20:45:40.990156+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12560,7 +12579,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:35.895206+00:00",
+      "verifiedAt": "2026-09-19T20:45:42.845397+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12579,7 +12598,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:37.708235+00:00",
+      "verifiedAt": "2026-09-19T20:45:44.607896+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12598,7 +12617,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:37.808215+00:00",
+      "verifiedAt": "2026-09-19T20:45:44.704042+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12617,7 +12636,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:40.599796+00:00",
+      "verifiedAt": "2026-09-19T20:45:47.432908+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12636,7 +12655,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:34.200191+00:00",
+      "verifiedAt": "2026-09-19T20:45:41.182888+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12655,7 +12674,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:35.295316+00:00",
+      "verifiedAt": "2026-09-19T20:45:42.260456+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12674,7 +12693,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:43.104182+00:00",
+      "verifiedAt": "2026-09-19T20:45:49.852747+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12693,7 +12712,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:34.599083+00:00",
+      "verifiedAt": "2026-09-19T20:45:41.570961+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12712,7 +12731,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:35.394929+00:00",
+      "verifiedAt": "2026-09-19T20:45:42.358934+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12731,7 +12750,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:33.903148+00:00",
+      "verifiedAt": "2026-09-19T20:45:40.893006+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12750,7 +12769,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:34.100445+00:00",
+      "verifiedAt": "2026-09-19T20:45:41.086658+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12769,7 +12788,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:41.795762+00:00",
+      "verifiedAt": "2026-09-19T20:45:48.594342+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12788,7 +12807,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:31.737392+00:00",
+      "verifiedAt": "2026-09-19T20:45:38.809366+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12807,7 +12826,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:33.603099+00:00",
+      "verifiedAt": "2026-09-19T20:45:40.606375+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12826,7 +12845,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:37.499505+00:00",
+      "verifiedAt": "2026-09-19T20:45:44.415328+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12845,7 +12864,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:40.802490+00:00",
+      "verifiedAt": "2026-09-19T20:45:47.630197+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12864,7 +12883,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:41.497278+00:00",
+      "verifiedAt": "2026-09-19T20:45:48.305065+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12883,7 +12902,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:34.798603+00:00",
+      "verifiedAt": "2026-09-19T20:45:41.767983+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12902,7 +12921,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:38.804899+00:00",
+      "verifiedAt": "2026-09-19T20:45:45.682298+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12921,7 +12940,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:33.309612+00:00",
+      "verifiedAt": "2026-09-19T20:45:40.321967+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12940,7 +12959,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:33.803204+00:00",
+      "verifiedAt": "2026-09-19T20:45:40.796236+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12959,7 +12978,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:40.303315+00:00",
+      "verifiedAt": "2026-09-19T20:45:47.144065+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12978,7 +12997,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:42.095324+00:00",
+      "verifiedAt": "2026-09-19T20:45:48.887196+00:00",
       "source": "Deal4Real"
     },
     {
@@ -12997,7 +13016,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:42.804560+00:00",
+      "verifiedAt": "2026-09-19T20:45:49.560988+00:00",
       "source": "Deal4Real"
     },
     {
@@ -13016,7 +13035,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:45.102985+00:00",
+      "verifiedAt": "2026-09-19T20:45:51.835955+00:00",
       "source": "Deal4Real"
     },
     {
@@ -13035,7 +13054,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:44.706951+00:00",
+      "verifiedAt": "2026-09-19T20:45:51.425578+00:00",
       "source": "Deal4Real"
     },
     {
@@ -13054,7 +13073,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:34.299575+00:00",
+      "verifiedAt": "2026-09-19T20:45:41.278614+00:00",
       "source": "Deal4Real"
     },
     {
@@ -13073,7 +13092,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:27.761430+00:00",
+      "verifiedAt": "2026-09-19T20:45:34.950400+00:00",
       "source": "Deal4Real"
     },
     {
@@ -13092,7 +13111,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:33.701785+00:00",
+      "verifiedAt": "2026-09-19T20:45:40.702049+00:00",
       "source": "Deal4Real"
     },
     {
@@ -13111,7 +13130,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:43.701207+00:00",
+      "verifiedAt": "2026-09-19T20:45:50.451709+00:00",
       "source": "Deal4Real"
     },
     {
@@ -13130,7 +13149,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:36.493490+00:00",
+      "verifiedAt": "2026-09-19T20:45:43.439542+00:00",
       "source": "Deal4Real"
     },
     {
@@ -13149,7 +13168,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:37.907594+00:00",
+      "verifiedAt": "2026-09-19T20:45:44.800893+00:00",
       "source": "Deal4Real"
     },
     {
@@ -13168,7 +13187,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:32.133264+00:00",
+      "verifiedAt": "2026-09-19T20:45:39.185754+00:00",
       "source": "Deal4Real"
     },
     {
@@ -13187,7 +13206,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:45.002487+00:00",
+      "verifiedAt": "2026-09-19T20:45:51.736420+00:00",
       "source": "Deal4Real"
     },
     {
@@ -13206,7 +13225,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:33.504647+00:00",
+      "verifiedAt": "2026-09-19T20:45:40.511459+00:00",
       "source": "Deal4Real"
     },
     {
@@ -13225,7 +13244,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:12.177291+00:00",
+      "verifiedAt": "2026-09-19T20:45:19.756367+00:00",
       "source": "Deal4Real"
     },
     {
@@ -13244,7 +13263,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-09-19T18:27:39.902782+00:00",
+      "verifiedAt": "2026-09-19T20:45:46.757470+00:00",
       "source": "Deal4Real"
     }
   ]
