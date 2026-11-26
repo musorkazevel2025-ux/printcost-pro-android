@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-26T08:16:38.704108+00:00",
+  "updatedAt": "2026-11-26T21:28:13.916845+00:00",
   "country": "IL",
   "source": "Deal4Real / Amazon",
-  "count": 458,
+  "count": 471,
   "deals": [
     {
       "asin": "B0F8N4S19G",
@@ -12,15 +12,15 @@
       "marketplace": "www.amazon.com",
       "material": "PLA",
       "price": 6.0,
-      "priceIls": 22.0,
-      "priceDisplay": "$6 · ₪22",
+      "priceIls": 20.0,
+      "priceDisplay": "$6 · ₪20",
       "oldPrice": null,
       "oldPriceDisplay": "",
       "discount": 0.0,
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.320528+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.170374+00:00",
       "source": "Deal4Real"
     },
     {
@@ -39,7 +39,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.926846+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.866291+00:00",
       "source": "Deal4Real"
     },
     {
@@ -58,7 +58,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.516486+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.741364+00:00",
       "source": "Deal4Real"
     },
     {
@@ -77,7 +77,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.907974+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.867167+00:00",
       "source": "Deal4Real"
     },
     {
@@ -96,7 +96,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.730285+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.713492+00:00",
       "source": "Deal4Real"
     },
     {
@@ -115,7 +115,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.982712+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.909903+00:00",
       "source": "Deal4Real"
     },
     {
@@ -134,7 +134,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.995642+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.675328+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0GSVDXWLF",
+      "title": "TRONXY High Speed PETG Filament 1.75mm,White 3D Printer Filament 1kg",
+      "url": "https://www.amazon.com/dp/B0GSVDXWLF",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0GSVDXWLF.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PETG",
+      "price": 9.0,
+      "priceIls": 30.0,
+      "priceDisplay": "$9 · ₪30",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:06.997829+00:00",
       "source": "Deal4Real"
     },
     {
@@ -153,7 +172,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.294681+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.799503+00:00",
       "source": "Deal4Real"
     },
     {
@@ -172,7 +191,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.310072+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.583293+00:00",
       "source": "Deal4Real"
     },
     {
@@ -191,7 +210,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.933812+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.113802+00:00",
       "source": "Deal4Real"
     },
     {
@@ -210,7 +229,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.993926+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.211568+00:00",
       "source": "Deal4Real"
     },
     {
@@ -229,7 +248,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.024204+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.234286+00:00",
       "source": "Deal4Real"
     },
     {
@@ -248,7 +267,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.849570+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.823685+00:00",
       "source": "Deal4Real"
     },
     {
@@ -267,7 +286,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.142426+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.063864+00:00",
       "source": "Deal4Real"
     },
     {
@@ -286,7 +305,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.898570+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.844750+00:00",
       "source": "Deal4Real"
     },
     {
@@ -305,7 +324,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.376707+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.214253+00:00",
       "source": "Deal4Real"
     },
     {
@@ -324,7 +343,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.601145+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.391212+00:00",
       "source": "Deal4Real"
     },
     {
@@ -343,7 +362,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.741123+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.501023+00:00",
       "source": "Deal4Real"
     },
     {
@@ -362,7 +381,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.110807+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.828876+00:00",
       "source": "Deal4Real"
     },
     {
@@ -381,7 +400,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.237592+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.755386+00:00",
       "source": "Deal4Real"
     },
     {
@@ -400,7 +419,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.013282+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.356078+00:00",
       "source": "Deal4Real"
     },
     {
@@ -419,7 +438,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.191828+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.492135+00:00",
       "source": "Deal4Real"
     },
     {
@@ -438,7 +457,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.251139+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.537671+00:00",
       "source": "Deal4Real"
     },
     {
@@ -457,7 +476,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.339586+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.605663+00:00",
       "source": "Deal4Real"
     },
     {
@@ -476,7 +495,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.368757+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.627710+00:00",
       "source": "Deal4Real"
     },
     {
@@ -495,7 +514,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.693405+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.900704+00:00",
       "source": "Deal4Real"
     },
     {
@@ -514,7 +533,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.723274+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.923452+00:00",
       "source": "Deal4Real"
     },
     {
@@ -533,7 +552,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.903290+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.062362+00:00",
       "source": "Deal4Real"
     },
     {
@@ -552,7 +571,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.498934+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.562367+00:00",
       "source": "Deal4Real"
     },
     {
@@ -571,7 +590,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.937278+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.889085+00:00",
       "source": "Deal4Real"
     },
     {
@@ -590,7 +609,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.318297+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.218121+00:00",
       "source": "Deal4Real"
     },
     {
@@ -609,7 +628,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.173239+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.867803+00:00",
       "source": "Deal4Real"
     },
     {
@@ -628,7 +647,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.450093+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.469627+00:00",
       "source": "Deal4Real"
     },
     {
@@ -647,7 +666,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.645924+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.648169+00:00",
       "source": "Deal4Real"
     },
     {
@@ -666,7 +685,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.786621+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.757166+00:00",
       "source": "Deal4Real"
     },
     {
@@ -685,7 +704,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.152005+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.039867+00:00",
       "source": "Deal4Real"
     },
     {
@@ -704,7 +723,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.769070+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.522508+00:00",
       "source": "Deal4Real"
     },
     {
@@ -723,7 +742,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.938539+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.632727+00:00",
       "source": "Deal4Real"
     },
     {
@@ -742,7 +761,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.108611+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.760782+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0DRWQKQ3Z",
+      "title": "GEEETECH PLA Filament 1.75mm Clear, 0.5kg 3D Printer Filament",
+      "url": "https://www.amazon.com/dp/B0DRWQKQ3Z",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0DRWQKQ3Z.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 11.0,
+      "priceIls": 37.0,
+      "priceDisplay": "$11 · ₪37",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:11.782363+00:00",
       "source": "Deal4Real"
     },
     {
@@ -761,7 +799,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.894728+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.266413+00:00",
       "source": "Deal4Real"
     },
     {
@@ -780,7 +818,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.954102+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.311343+00:00",
       "source": "Deal4Real"
     },
     {
@@ -799,7 +837,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.102627+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.424078+00:00",
       "source": "Deal4Real"
     },
     {
@@ -818,26 +856,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.663583+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0H98FDWJT",
-      "title": "eSUN PETG 3D Printer Fliament 1.75mm White, 1KG",
-      "url": "https://www.amazon.com/dp/B0H98FDWJT",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H98FDWJT.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PETG",
-      "price": 12.0,
-      "priceIls": 40.0,
-      "priceDisplay": "$12 · ₪40",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.753140+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.878005+00:00",
       "source": "Deal4Real"
     },
     {
@@ -856,7 +875,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.812886+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.992183+00:00",
       "source": "Deal4Real"
     },
     {
@@ -875,7 +894,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.842849+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.015415+00:00",
       "source": "Deal4Real"
     },
     {
@@ -894,7 +913,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.054233+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.256145+00:00",
       "source": "Deal4Real"
     },
     {
@@ -913,12 +932,12 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.144618+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.299604+00:00",
       "source": "Deal4Real"
     },
     {
       "asin": "B0CPF7FDTG",
-      "title": "ELEGOO Rapid PETG 3D Printer Filament 1.75mm Black 1KG",
+      "title": "ELEGOO Rapid PETG High Speed Filament 1.75mm Black 1KG",
       "url": "https://www.amazon.com/dp/B0CPF7FDTG",
       "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPF7FDTG.01.LZZZZZZZ.jpg",
       "marketplace": "www.amazon.com",
@@ -932,7 +951,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.204888+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.343805+00:00",
       "source": "Deal4Real"
     },
     {
@@ -951,26 +970,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.323788+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0B99M3D9B",
-      "title": "SUNLU PETG Filament 1.75mm,1kg,Black",
-      "url": "https://www.amazon.com/dp/B0B99M3D9B",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0B99M3D9B.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PETG",
-      "price": 12.0,
-      "priceIls": 40.0,
-      "priceDisplay": "$12 · ₪40",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.353381+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.431592+00:00",
       "source": "Deal4Real"
     },
     {
@@ -989,7 +989,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.469900+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.540457+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1008,7 +1008,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.528603+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.584137+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1027,7 +1027,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.674465+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.713525+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1046,7 +1046,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.879061+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.845538+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1065,7 +1065,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.083622+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.019692+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1084,7 +1084,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.477376+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.492242+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1103,7 +1103,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.617490+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.626494+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1122,7 +1122,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.758482+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.735385+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1141,7 +1141,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.095843+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.996651+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1160,7 +1160,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.124395+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.018257+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1179,7 +1179,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.180244+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.061328+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1198,7 +1198,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.264481+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.126673+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1217,7 +1217,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.404455+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.235896+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1236,7 +1236,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.517137+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.324568+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1255,7 +1255,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.686110+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.457760+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1274,7 +1274,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.825311+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.565403+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1293,7 +1293,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.967214+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.654121+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1312,7 +1312,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.080233+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.739436+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0D9899ZSM",
+      "title": "3D Printer Filament Pla HS Transparent Red for Bambu Lab AMS,AMS Lite",
+      "url": "https://www.amazon.com/dp/B0D9899ZSM",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0D9899ZSM.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 12.0,
+      "priceIls": 40.0,
+      "priceDisplay": "$12 · ₪40",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:11.803796+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1331,7 +1350,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.276639+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.910701+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0CRP9SD2Z",
+      "title": "Geeetech Bone White PLA Filament 1.75mm for Bambu AMS",
+      "url": "https://www.amazon.com/dp/B0CRP9SD2Z",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRP9SD2Z.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 12.0,
+      "priceIls": 39.0,
+      "priceDisplay": "$12 · ₪39",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:11.954370+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1350,7 +1388,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.444000+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.086276+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1369,26 +1407,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.500467+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0H8S29FYM",
-      "title": "PLA 3D Printer Filament 1.75mm,Green,High Speed 500mm/s,1kg Spool",
-      "url": "https://www.amazon.com/dp/B0H8S29FYM",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H8S29FYM.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA",
-      "price": 12.0,
-      "priceIls": 40.0,
-      "priceDisplay": "$12 · ₪40",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.640257+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.130167+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1407,7 +1426,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.779696+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.329984+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1426,7 +1445,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.026143+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.603702+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1445,7 +1464,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.814694+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.236608+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1464,7 +1483,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.233716+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.558548+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1483,7 +1502,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.859477+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.632763+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1502,7 +1521,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.645295+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.261427+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1521,7 +1540,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.519314+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.975926+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1540,7 +1559,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.865314+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.221593+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1559,7 +1578,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.398661+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.650106+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1578,7 +1597,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.545930+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.763941+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1597,7 +1616,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.872904+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.037935+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1616,7 +1635,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.963937+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.147475+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1635,7 +1654,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.174477+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.321709+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1654,7 +1673,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.235648+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.366006+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1673,7 +1692,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.265718+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.388094+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1692,7 +1711,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.294762+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.409889+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1711,7 +1730,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.382775+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.475056+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1730,7 +1749,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.411914+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.496954+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1749,7 +1768,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.440992+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.518676+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1768,7 +1787,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.557545+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.605870+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0D4QD8T2R",
+      "title": "Official PETG 3D Printer Filament 1.75mm 1KG (2.2lbs), High Precision Strong Toughness, Odorless Better Flow Moistureproof 3D Printing Ender Filament(Purple)",
+      "url": "https://www.amazon.com/dp/B0D4QD8T2R",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0D4QD8T2R.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PETG",
+      "price": 13.0,
+      "priceIls": 42.0,
+      "priceDisplay": "$13 · ₪42",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:06.627508+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1787,7 +1825,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.644929+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.692187+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1806,7 +1844,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.762306+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.779550+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1825,7 +1863,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.966448+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.910919+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1844,7 +1882,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.995663+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.932652+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1863,7 +1901,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.025152+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.954335+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1882,7 +1920,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.201352+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.129373+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1901,26 +1939,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.697923+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0C8NMQDSC",
-      "title": "PETG Filament, 3D Printer Filament 1.75mm 1KG (2.2lbs), Red",
-      "url": "https://www.amazon.com/dp/B0C8NMQDSC",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0C8NMQDSC.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PETG",
-      "price": 13.0,
-      "priceIls": 43.0,
-      "priceDisplay": "$13 · ₪43",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.727359+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.504265+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1939,7 +1958,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.785157+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.547990+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1958,7 +1977,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.423086+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.447298+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1977,7 +1996,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.561256+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.560942+00:00",
       "source": "Deal4Real"
     },
     {
@@ -1996,7 +2015,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.674207+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.669818+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2015,7 +2034,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.814213+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.779259+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2034,7 +2053,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.039366+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.953379+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2053,7 +2072,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.236481+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.104909+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2072,7 +2091,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.544553+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.346405+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2091,7 +2110,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.657579+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.435590+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2110,7 +2129,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.714115+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.479786+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2129,7 +2148,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.881778+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.587372+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2148,7 +2167,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.052037+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.718358+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2167,7 +2186,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.164256+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.825224+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2186,7 +2205,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.332950+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.976097+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0GGH23FP7",
+      "title": "Sovol 3D Printer Matte Multicolor Gradient Rainbow PLA 1kg, Matte Sea Salt",
+      "url": "https://www.amazon.com/dp/B0GGH23FP7",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0GGH23FP7.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 13.0,
+      "priceIls": 44.0,
+      "priceDisplay": "$13 · ₪44",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:11.997877+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2205,14 +2243,14 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.416496+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.063935+00:00",
       "source": "Deal4Real"
     },
     {
-      "asin": "B0D5LS9BN1",
-      "title": "Geeetech Matte PLA Filament 1.75mm Olive Green 1kg Spool for Bambu AMS",
-      "url": "https://www.amazon.com/dp/B0D5LS9BN1",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0D5LS9BN1.01.LZZZZZZZ.jpg",
+      "asin": "B09T31NCJS",
+      "title": "Geeetech Silver PLA Filament 1.75mm 1kg",
+      "url": "https://www.amazon.com/dp/B09T31NCJS",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B09T31NCJS.01.LZZZZZZZ.jpg",
       "marketplace": "www.amazon.com",
       "material": "PLA",
       "price": 13.0,
@@ -2224,7 +2262,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.583965+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.386796+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2243,7 +2281,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.637412+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.436093+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2262,7 +2300,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.983481+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.333808+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2281,7 +2319,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.072671+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.401413+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2300,7 +2338,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.162247+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.469314+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2319,7 +2357,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.634407+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.855184+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2338,7 +2376,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.783007+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.969416+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0B99M3D9B",
+      "title": "SUNLU PETG Filament 1.75mm,1kg,Black",
+      "url": "https://www.amazon.com/dp/B0B99M3D9B",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0B99M3D9B.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PETG",
+      "price": 14.0,
+      "priceIls": 45.0,
+      "priceDisplay": "$14 · ₪45",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:06.453321+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2357,7 +2414,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.586778+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.649095+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2376,26 +2433,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.733126+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0FS1DWBKQ",
-      "title": "SUNLU PETG Filament 1.75mm,1kg,Klein Blue",
-      "url": "https://www.amazon.com/dp/B0FS1DWBKQ",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0FS1DWBKQ.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PETG",
-      "price": 14.0,
-      "priceIls": 47.0,
-      "priceDisplay": "$14 · ₪47",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.791277+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.757639+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2414,7 +2452,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.820319+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.801629+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2433,26 +2471,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.171957+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0DDT23WQF",
-      "title": "SUNLU PETG Filament 1.75mm,1kg,Transparent Green",
-      "url": "https://www.amazon.com/dp/B0DDT23WQF",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0DDT23WQF.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PETG",
-      "price": 14.0,
-      "priceIls": 47.0,
-      "priceDisplay": "$14 · ₪47",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.230944+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.107574+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2471,7 +2490,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.347120+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.240475+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2490,7 +2509,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.405107+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.284553+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2509,7 +2528,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.433690+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.306614+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2528,7 +2547,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.462822+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.328790+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2547,7 +2566,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.756270+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.526091+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0H5Q96Q26",
+      "title": "SUNLU Filament Refill 1.75mm,1kg,Lavender Purple",
+      "url": "https://www.amazon.com/dp/B0H5Q96Q26",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H5Q96Q26.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "OTHER",
+      "price": 14.0,
+      "priceIls": 45.0,
+      "priceDisplay": "$14 · ₪45",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:07.614278+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2566,7 +2604,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.395461+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.424826+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2585,7 +2623,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.504956+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.514945+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2604,7 +2642,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.532943+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.537913+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0D7VVVGT6",
+      "title": "Geeetech Silk Tri-Color PLA Red Yellow Blue Filament 1.75mm for Bambu AMS",
+      "url": "https://www.amazon.com/dp/B0D7VVVGT6",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0D7VVVGT6.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 14.0,
+      "priceIls": 45.0,
+      "priceDisplay": "$14 · ₪45",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:10.583290+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2623,7 +2680,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.589493+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.605166+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2642,7 +2699,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.702079+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.691632+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2661,7 +2718,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.842234+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.800980+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2680,7 +2737,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.870340+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.823083+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2699,7 +2756,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.954901+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.888213+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2718,7 +2775,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.011034+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.931698+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2737,7 +2794,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.068372+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.975069+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2756,7 +2813,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.208418+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.082967+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2775,7 +2832,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.292393+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.148472+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2794,7 +2851,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.348614+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.192319+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2813,7 +2870,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.432639+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.257717+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2832,7 +2889,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.461130+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.279938+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2851,7 +2908,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.489083+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.302331+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2870,7 +2927,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.572975+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.368825+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2889,7 +2946,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.629217+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.413359+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2908,26 +2965,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.797734+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0D5L7RS92",
-      "title": "Geeetech Matte PLA Filament 1.75mm Terracotta 1kg Spool for Bambu AMS",
-      "url": "https://www.amazon.com/dp/B0D5L7RS92",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0D5L7RS92.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA",
-      "price": 14.0,
-      "priceIls": 47.0,
-      "priceDisplay": "$14 · ₪47",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.853612+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.543978+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2946,7 +2984,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:35.910249+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.609761+00:00",
       "source": "Deal4Real"
     },
     {
@@ -2965,26 +3003,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.023777+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0DRWQKQ3Z",
-      "title": "GEEETECH PLA Filament 1.75mm Clear, 0.5kg 3D Printer Filament",
-      "url": "https://www.amazon.com/dp/B0DRWQKQ3Z",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0DRWQKQ3Z.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA",
-      "price": 14.0,
-      "priceIls": 47.0,
-      "priceDisplay": "$14 · ₪47",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.136729+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.696874+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3003,7 +3022,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.191779+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.846482+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3022,7 +3041,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.219892+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.867972+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3041,7 +3060,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.248205+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.889327+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3060,7 +3079,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.304956+00:00",
+      "verifiedAt": "2026-11-26T21:28:11.932640+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3079,26 +3098,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.360466+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0FH4SFX8C",
-      "title": "PINBALL Silk Rainbow PLA 3D Printer Filament 1.75mm Shiny Multi-Color Changing Filament 3D Printing PLA Filament Dimensional Accuracy +/- 0.02mm 1 KG Silk Rainbow Guava",
-      "url": "https://www.amazon.com/dp/B0FH4SFX8C",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0FH4SFX8C.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA",
-      "price": 14.0,
-      "priceIls": 48.0,
-      "priceDisplay": "$14 · ₪48",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.388421+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.041548+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3117,7 +3117,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.472136+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.108375+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3136,7 +3136,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.528387+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.151669+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3155,26 +3155,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.556284+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.173372+00:00",
       "source": "Deal4Real"
     },
     {
-      "asin": "B0FJMFDP9D",
-      "title": "Geeetech Matte PLA Filament 1.75mm Blue 1kg Spool for Bambu AMS",
-      "url": "https://www.amazon.com/dp/B0FJMFDP9D",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0FJMFDP9D.01.LZZZZZZZ.jpg",
+      "asin": "B0H8S29FYM",
+      "title": "PLA 3D Printer Filament 1.75mm,Green,High Speed 500mm/s,1kg Spool",
+      "url": "https://www.amazon.com/dp/B0H8S29FYM",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H8S29FYM.01.LZZZZZZZ.jpg",
       "marketplace": "www.amazon.com",
       "material": "PLA",
       "price": 14.0,
-      "priceIls": 45.0,
-      "priceDisplay": "$14 · ₪45",
+      "priceIls": 47.0,
+      "priceDisplay": "$14 · ₪47",
       "oldPrice": null,
       "oldPriceDisplay": "",
       "discount": 0.0,
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.611914+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.194764+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3193,7 +3193,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.668556+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.216459+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3212,7 +3212,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.696035+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.237920+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3231,7 +3231,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.724277+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.261240+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3250,7 +3250,45 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.752294+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.298084+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0H1LRYV8X",
+      "title": "Polymaker Panchroma Silk PLA Filament Refill 1.75mm 1kg, White",
+      "url": "https://www.amazon.com/dp/B0H1LRYV8X",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H1LRYV8X.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 14.0,
+      "priceIls": 47.0,
+      "priceDisplay": "$14 · ₪47",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:12.357358+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B074C8MFQJ",
+      "title": "PLA Filament 1.75mm, PRILINE PLA 3D Printer Filament, 1kg Spool (2.2lbs) 3D Printing Filament Fits for Most 3D Printers, Dimensional Accuracy +/- 0.02mm,Blue",
+      "url": "https://www.amazon.com/dp/B074C8MFQJ",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B074C8MFQJ.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 14.0,
+      "priceIls": 45.0,
+      "priceDisplay": "$14 · ₪45",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:12.410980+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3269,7 +3307,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.889751+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.496136+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3288,7 +3326,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.917342+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.517540+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3307,7 +3345,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.249482+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.794306+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3326,7 +3364,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.674324+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.131583+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3345,7 +3383,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.589713+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.217933+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3364,7 +3402,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.098713+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.626407+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3383,7 +3421,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.221915+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.514697+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3402,7 +3440,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.487143+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.718404+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3421,7 +3459,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.574835+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.809259+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0H98FDWJT",
+      "title": "eSUN PETG 3D Printer Fliament 1.75mm White, 1KG",
+      "url": "https://www.amazon.com/dp/B0H98FDWJT",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H98FDWJT.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PETG",
+      "price": 15.0,
+      "priceIls": 50.0,
+      "priceDisplay": "$15 · ₪50",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:05.946169+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3440,7 +3497,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.704197+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.735360+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3459,7 +3516,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.112833+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.041777+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3478,7 +3535,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.259991+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.173627+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3497,7 +3554,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.496027+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.350546+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3516,7 +3573,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.554519+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.394419+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3535,7 +3592,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.612094+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.438353+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3554,7 +3611,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.814106+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.570293+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3573,7 +3630,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.843802+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.592318+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3592,7 +3649,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.114159+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.845459+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3611,7 +3668,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.673908+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.281432+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3630,7 +3687,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.703605+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.304398+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3649,7 +3706,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.482298+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.864185+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3668,7 +3725,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.964235+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.237334+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3687,7 +3744,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.176407+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.387271+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0FC1MZ2TF",
+      "title": "Polymaker Panchroma PLA Filament 1.75mm, 1kg, Green",
+      "url": "https://www.amazon.com/dp/B0FC1MZ2TF",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0FC1MZ2TF.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 15.0,
+      "priceIls": 48.0,
+      "priceDisplay": "$15 · ₪48",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:12.019461+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3706,7 +3782,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.053725+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.625295+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3725,7 +3801,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.193010+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.731207+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3744,7 +3820,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.220971+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.773216+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3763,7 +3839,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.261676+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.599350+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3782,7 +3858,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.427656+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.706067+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3801,26 +3877,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.566407+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B01N4AZ9NC",
-      "title": "SUNLU ABS Filament 1.75mm,Skin Beige,1kg",
-      "url": "https://www.amazon.com/dp/B01N4AZ9NC",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B01N4AZ9NC.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "ABS",
-      "price": 15.0,
-      "priceIls": 51.0,
-      "priceDisplay": "$15 · ₪51",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.703019+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.812696+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3839,7 +3896,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.167130+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.872987+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3858,7 +3915,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.223372+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.916890+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3877,7 +3934,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.280961+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.960132+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0FDQY12ZQ",
+      "title": "Reprapper Silk TPU Filament, 95A Shore Hardness, 1kg TPU 1.75mm, Elastic 3D Printer Filament, Flexible & Soft Filament for 3D Printer (± 0.03mm) 2.2lb, Yellow",
+      "url": "https://www.amazon.com/dp/B0FDQY12ZQ",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0FDQY12ZQ.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "TPU",
+      "price": 16.0,
+      "priceIls": 53.0,
+      "priceDisplay": "$16 · ₪53",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:04.196503+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3896,7 +3972,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.788279+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.368561+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3915,7 +3991,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.042896+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.583748+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3934,7 +4010,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.153737+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.690712+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3953,7 +4029,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.266837+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.777309+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3972,7 +4048,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.405007+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.888259+00:00",
       "source": "Deal4Real"
     },
     {
@@ -3991,7 +4067,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.806749+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.176546+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4010,7 +4086,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.132361+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.446698+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0H98FRZR5",
+      "title": "eSUN PETG 3D Printer Fliament 1.75mm Grey, 1KG",
+      "url": "https://www.amazon.com/dp/B0H98FRZR5",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H98FRZR5.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PETG",
+      "price": 16.0,
+      "priceIls": 53.0,
+      "priceDisplay": "$16 · ₪53",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:06.182924+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4029,26 +4124,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.084079+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0BBVC9N4G",
-      "title": "PETG 3D Printer Filament 1.75mm,Rainbow Translucent,Multi Color,1kg(2.2lbs) Accuracy +/-0.05mm",
-      "url": "https://www.amazon.com/dp/B0BBVC9N4G",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0BBVC9N4G.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PETG",
-      "price": 16.0,
-      "priceIls": 54.0,
-      "priceDisplay": "$16 · ₪54",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.114425+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.277826+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4067,7 +4143,45 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:29.615505+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.670668+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0H85S7HLY",
+      "title": "SUNLU PETG 2.0 Filament, 3D Printer Filament, Sunny Orange, 1KG",
+      "url": "https://www.amazon.com/dp/B0H85S7HLY",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H85S7HLY.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PETG",
+      "price": 16.0,
+      "priceIls": 53.0,
+      "priceDisplay": "$16 · ₪53",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:07.085785+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0H86NB78Y",
+      "title": "SUNLU PETG 2.0 Filament, 3D Printer Filament, Red, 1KG",
+      "url": "https://www.amazon.com/dp/B0H86NB78Y",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H86NB78Y.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PETG",
+      "price": 16.0,
+      "priceIls": 53.0,
+      "priceDisplay": "$16 · ₪53",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:07.151463+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4086,7 +4200,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.289016+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.195877+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4105,7 +4219,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.376133+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.262518+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4124,7 +4238,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.525782+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.372326+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4143,7 +4257,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.583508+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.416319+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4162,7 +4276,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.669129+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.482253+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4181,7 +4295,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.862254+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.474689+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4200,7 +4314,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.971421+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.560606+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4219,7 +4333,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.730978+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.173379+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4238,7 +4352,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.066292+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.430902+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0FLPT8RVN",
+      "title": "SUNLU High Speed ABS Filament, Heat Resistance, 1KG, (White)",
+      "url": "https://www.amazon.com/dp/B0FLPT8RVN",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0FLPT8RVN.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "ABS",
+      "price": 16.0,
+      "priceIls": 53.0,
+      "priceDisplay": "$16 · ₪53",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:13.578876+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4257,7 +4390,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.621396+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.853407+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4276,7 +4409,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.887188+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.654745+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4295,7 +4428,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.997399+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.741539+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4314,7 +4447,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.082958+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.807122+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4333,7 +4466,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.986461+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.540762+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4352,7 +4485,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.777344+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.154194+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4371,7 +4504,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.924232+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.288860+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4390,7 +4523,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.280759+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.560581+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4409,7 +4542,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.428362+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.672664+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0DPMR9YHJ",
+      "title": "CR PETG Filament, 3D Printer Filament 1.75mm 1KG (2.2lbs), Army Green",
+      "url": "https://www.amazon.com/dp/B0DPMR9YHJ",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0DPMR9YHJ.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PETG",
+      "price": 17.0,
+      "priceIls": 57.0,
+      "priceDisplay": "$17 · ₪57",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:05.786555+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4428,7 +4580,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.640643+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.460304+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0GHYRPYVT",
+      "title": "PLA Basic Bundle for Bambu Lab 3D Printers, 4x250g Christmas Sets",
+      "url": "https://www.amazon.com/dp/B0GHYRPYVT",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0GHYRPYVT.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 17.0,
+      "priceIls": 57.0,
+      "priceDisplay": "$17 · ₪57",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:08.630419+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4447,7 +4618,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.145639+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.362882+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B098QL6Y58",
+      "title": "High Temperature Resistant Premium Bowden Tubing 6M TPFE Teflon Tube for 1.75mm Filament with Upgraded PC4-M6 and PC4-M10 Pneumatic Fittings,Teflon Cutter,Collet Clips and Spanner for Ender 3/3 Pro",
+      "url": "https://www.amazon.com/dp/B098QL6Y58",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B098QL6Y58.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "OTHER",
+      "price": 17.0,
+      "priceIls": 57.0,
+      "priceDisplay": "$17 · ₪57",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:13.915909+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4466,7 +4656,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.941907+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.697893+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4485,7 +4675,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.673643+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.282765+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4504,7 +4694,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.816301+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.390446+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4523,7 +4713,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.322162+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.821802+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4542,7 +4732,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.349784+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.843746+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4561,7 +4751,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.662163+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.086853+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4580,7 +4770,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.043094+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.378649+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4599,7 +4789,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.458036+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.695118+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4618,7 +4808,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:28.604325+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.832187+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4637,7 +4827,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.054268+00:00",
+      "verifiedAt": "2026-11-26T21:28:06.975969+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4656,7 +4846,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.852062+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.422288+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4675,7 +4865,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.912142+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.445473+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4694,7 +4884,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.753112+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.047772+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4713,7 +4903,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.455276+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.727932+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4732,12 +4922,12 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.665570+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.458212+00:00",
       "source": "Deal4Real"
     },
     {
       "asin": "B0DWSDWTW5",
-      "title": "ELEGOO TPU 3D Printer Filament 1.75mm Black 1KG, 95A Flexible",
+      "title": "ELEGOO TPU 95A 3D Printer TPU Filament 1.75mm Black 1KG, 95A Flexible",
       "url": "https://www.amazon.com/dp/B0DWSDWTW5",
       "image": "https://images-na.ssl-images-amazon.com/images/P/B0DWSDWTW5.01.LZZZZZZZ.jpg",
       "marketplace": "www.amazon.com",
@@ -4751,7 +4941,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.832064+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.610926+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4770,7 +4960,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.365141+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.025778+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4789,7 +4979,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.759494+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.347038+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4808,7 +4998,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.873444+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.455049+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4827,7 +5017,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.209458+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.733442+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4846,7 +5036,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.835877+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.199066+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4865,7 +5055,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.379023+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.028225+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0DXT4HT28",
+      "title": "FLASHFORGE Silk Tri-Color PLA Filament 1.75mm, Coextrusion Orange Green Blue Triple Color Rainbow 3D Printer Filament, Enchanting Silk Finish with 360° Multicolor Shifting Color Effect",
+      "url": "https://www.amazon.com/dp/B0DXT4HT28",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0DXT4HT28.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 19.0,
+      "priceIls": 62.0,
+      "priceDisplay": "$19 · ₪62",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:08.074311+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4884,7 +5093,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.467562+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.120372+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4903,7 +5112,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.497123+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.143367+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4922,7 +5131,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.512219+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.887092+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4941,7 +5150,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.843304+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.142258+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4960,7 +5169,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.328643+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.484761+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4979,7 +5188,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.596240+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.676425+00:00",
       "source": "Deal4Real"
     },
     {
@@ -4998,7 +5207,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.744921+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.798763+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5017,7 +5226,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.218716+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.185188+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5036,7 +5245,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.420393+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.920501+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5055,7 +5264,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.289193+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.620328+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5074,7 +5283,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.581708+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.391602+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B074DV9JMX",
+      "title": "TPU Filament PRILINE,98A TPU Flexible Soft 3D Printer Filament 1KG 1.75mm Spool,Black",
+      "url": "https://www.amazon.com/dp/B074DV9JMX",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B074DV9JMX.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "TPU",
+      "price": 20.0,
+      "priceIls": 65.0,
+      "priceDisplay": "$20 · ₪65",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:03.851006+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5093,7 +5321,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.730824+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.325717+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0GZYYL32D",
+      "title": "OVERTURE Upgrade TPU 2.0 High-Speed Filament 1.75mm, 1kg Black",
+      "url": "https://www.amazon.com/dp/B0GZYYL32D",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0GZYYL32D.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "TPU",
+      "price": 20.0,
+      "priceIls": 66.0,
+      "priceDisplay": "$20 · ₪66",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:04.411922+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5112,7 +5359,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.901547+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.476701+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5131,7 +5378,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.605144+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.042185+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5150,7 +5397,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.633802+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.064523+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5169,26 +5416,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.690796+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0GKFZPXSY",
-      "title": "TPU Filament 1.75mm 95A Soft Flexible 3D Printer Filament, 1kg High Speed Printing for Industrial Gaskets & Dampening, Fits Most FDM Printers, Translucent Green",
-      "url": "https://www.amazon.com/dp/B0GKFZPXSY",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0GKFZPXSY.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "TPU",
-      "price": 20.0,
-      "priceIls": 66.0,
-      "priceDisplay": "$20 · ₪66",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.719475+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.109297+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5207,7 +5435,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.422178+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.817768+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5226,7 +5454,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.662738+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.979419+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5245,7 +5473,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.873590+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.166138+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5264,7 +5492,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.806828+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.431936+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5283,7 +5511,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.617944+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.068103+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5302,7 +5530,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.981338+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.366106+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5321,7 +5549,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.400261+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.684516+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5340,7 +5568,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.609205+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.413954+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5359,7 +5587,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.693463+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.479927+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0F5WTKD31",
+      "title": "Black TPU Filament 1KG, TPU 3D Printer Filament 1.75mm",
+      "url": "https://www.amazon.com/dp/B0F5WTKD31",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0F5WTKD31.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "TPU",
+      "price": 21.0,
+      "priceIls": 69.0,
+      "priceDisplay": "$21 · ₪69",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:03.589163+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5378,26 +5625,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.392790+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0DFC3DN1M",
-      "title": "SUNLU TPU-Silk 3D Printer Filament 1.75mm, 1kg (2.2lbs), Light Blue",
-      "url": "https://www.amazon.com/dp/B0DFC3DN1M",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0DFC3DN1M.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "TPU",
-      "price": 21.0,
-      "priceIls": 70.0,
-      "priceDisplay": "$21 · ₪70",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.420747+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.047392+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5416,7 +5644,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.449611+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.090305+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5435,7 +5663,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.505177+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.132423+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5454,7 +5682,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.533445+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.154048+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5473,7 +5701,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.958612+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.519363+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5492,26 +5720,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.433542+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0GTTWBDW7",
-      "title": "OVV3D PLA 3D Printer Filament Bundle 250g x 4 Spools , Transparent PLA",
-      "url": "https://www.amazon.com/dp/B0GTTWBDW7",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0GTTWBDW7.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA",
-      "price": 21.0,
-      "priceIls": 71.0,
-      "priceDisplay": "$21 · ₪71",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.542337+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.910363+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5530,7 +5739,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.572281+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.910255+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5549,7 +5758,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.933753+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.213726+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5568,7 +5777,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.334677+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.856912+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5587,7 +5796,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.702446+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.152577+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5606,7 +5815,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.926154+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.323287+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5625,7 +5834,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.953428+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.344860+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5644,7 +5853,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.914578+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.676350+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5663,7 +5872,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.702339+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.304201+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5682,7 +5891,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.930083+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.498014+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0931YN8L1",
+      "title": "AMOLEN PLA Silk 3D Printer Filament Dual Color Bundle, 1.75mm 4x200g Spool",
+      "url": "https://www.amazon.com/dp/B0931YN8L1",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0931YN8L1.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 22.0,
+      "priceIls": 72.0,
+      "priceDisplay": "$22 · ₪72",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:07.755228+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5701,7 +5929,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.084798+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.823075+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5720,7 +5948,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.291401+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.959387+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5739,7 +5967,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.361762+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.794666+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5758,7 +5986,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.137540+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.688903+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5777,7 +6005,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.363546+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.878291+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5796,7 +6024,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.533712+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.005406+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B09DKPX4TR",
+      "title": "Polymaker ASA Filament 1.75mm Army Green 1KG, UV & Weather Resistant",
+      "url": "https://www.amazon.com/dp/B09DKPX4TR",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B09DKPX4TR.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "ASA",
+      "price": 22.0,
+      "priceIls": 72.0,
+      "priceDisplay": "$22 · ₪72",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:13.089084+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5815,7 +6062,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.759090+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.194213+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5834,7 +6081,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.009605+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.387384+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5853,7 +6100,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.094483+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.452475+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5872,7 +6119,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.122603+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.474155+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5891,26 +6138,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.150318+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0GLZKF4DV",
-      "title": "Bamboo ABS Refill Filament 1.75mm 1 KG (2.2lbs) with RFID for Bambu Lab A1/X1/P1 /P2S/H2 AMS,Easy to Print,3D Printing Filament,No Spool, +/- 0.03mm(White 40100)",
-      "url": "https://www.amazon.com/dp/B0GLZKF4DV",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0GLZKF4DV.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "ABS",
-      "price": 22.0,
-      "priceIls": 73.0,
-      "priceDisplay": "$22 · ₪73",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.316426+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.496255+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5929,7 +6157,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.538631+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.792138+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5948,7 +6176,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.675605+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.894910+00:00",
       "source": "Deal4Real"
     },
     {
@@ -5967,14 +6195,14 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.720993+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.501620+00:00",
       "source": "Deal4Real"
     },
     {
-      "asin": "B074DV9JMX",
-      "title": "TPU Filament PRILINE,98A TPU Flexible Soft 3D Printer Filament 1KG 1.75mm Spool,Black",
-      "url": "https://www.amazon.com/dp/B074DV9JMX",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B074DV9JMX.01.LZZZZZZZ.jpg",
+      "asin": "B0DFC3DN1M",
+      "title": "SUNLU TPU-Silk 3D Printer Filament 1.75mm, 1kg (2.2lbs), Light Blue",
+      "url": "https://www.amazon.com/dp/B0DFC3DN1M",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0DFC3DN1M.01.LZZZZZZZ.jpg",
       "marketplace": "www.amazon.com",
       "material": "TPU",
       "price": 23.0,
@@ -5986,7 +6214,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.138943+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.068661+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0DHFLBPM3",
+      "title": "CC3D 57D Silk TPU Filament Gold 1.75mm 1KG 3D Printer Filament FDM 3D Printing Materials Metallic Filament TPU Harder Than 98A",
+      "url": "https://www.amazon.com/dp/B0DHFLBPM3",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0DHFLBPM3.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "TPU",
+      "price": 23.0,
+      "priceIls": 76.0,
+      "priceDisplay": "$23 · ₪76",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:04.669313+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6005,7 +6252,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.491161+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.954045+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6024,7 +6271,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.576571+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.020054+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6043,7 +6290,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.748263+00:00",
+      "verifiedAt": "2026-11-26T21:28:05.131741+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6062,7 +6309,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.692677+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.002010+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6081,7 +6328,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.085495+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.311386+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6100,7 +6347,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.207024+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.412629+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6119,7 +6366,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.306575+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.836140+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6138,7 +6385,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.391988+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.899426+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6157,7 +6404,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.562120+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.026316+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6176,7 +6423,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.178194+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.517598+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6195,7 +6442,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.344270+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.641381+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6214,7 +6461,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.482765+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.749324+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6233,7 +6480,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.253490+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.938512+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6252,7 +6499,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.844987+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.433425+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6271,7 +6518,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.014705+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.562174+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6290,7 +6537,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.377186+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.865779+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0C1YZKJ9F",
+      "title": "3D Printer Filament PLA 1.75mm 5 Colors Bundle Print Filament",
+      "url": "https://www.amazon.com/dp/B0C1YZKJ9F",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0C1YZKJ9F.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 24.0,
+      "priceIls": 81.0,
+      "priceDisplay": "$24 · ₪81",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:07.731440+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6309,7 +6575,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.437935+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.097223+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6328,7 +6594,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.643622+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.257756+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6347,26 +6613,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.298429+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.460592+00:00",
       "source": "Deal4Real"
     },
     {
-      "asin": "B0F5GZ1X8H",
-      "title": "SUNLU Silk PLA+ Filament 1.75mm Multicolor 250gx4, Silky Glossy Dual Color PLA Plus 3D Printer Filament Bundle for Bambu Lab 3D Printers, Red Gold+Blue Green+Red Blue+Green Purple",
-      "url": "https://www.amazon.com/dp/B0F5GZ1X8H",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0F5GZ1X8H.01.LZZZZZZZ.jpg",
+      "asin": "B0CSV8XBPV",
+      "title": "Siraya Tech Fibreheart ABS-GF 3D Printer Filament, High-Temp, Black, 1kg",
+      "url": "https://www.amazon.com/dp/B0CSV8XBPV",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0CSV8XBPV.01.LZZZZZZZ.jpg",
       "marketplace": "www.amazon.com",
-      "material": "PLA+",
+      "material": "ABS",
       "price": 24.0,
-      "priceIls": 79.0,
-      "priceDisplay": "$24 · ₪79",
+      "priceIls": 81.0,
+      "priceDisplay": "$24 · ₪81",
       "oldPrice": null,
       "oldPriceDisplay": "",
       "discount": 0.0,
-      "freeShipping": false,
-      "shippingKnown": false,
+      "freeShipping": true,
+      "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.832387+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.752140+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6385,7 +6651,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.645943+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.110154+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6404,7 +6670,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.553485+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.369439+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6423,7 +6689,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.748951+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.523422+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6442,7 +6708,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.561734+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.175508+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6461,7 +6727,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.126231+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.647749+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6480,7 +6746,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.181189+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.711965+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6499,7 +6765,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.462728+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.932287+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B09ND9HM9K",
+      "title": "DURAMIC 3D TPU Filament 1.75mm Orange, Flexible 95A, Soft TPU, 1kg Spool, +/- 0.05mm Accuracy, Orange 1 Pack",
+      "url": "https://www.amazon.com/dp/B09ND9HM9K",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B09ND9HM9K.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "TPU",
+      "price": 25.0,
+      "priceIls": 83.0,
+      "priceDisplay": "$25 · ₪83",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:05.243980+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6518,7 +6803,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.935306+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.685974+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6537,7 +6822,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.055343+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.800298+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6556,7 +6841,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.763109+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.351141+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6575,7 +6860,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.792585+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.374679+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6594,7 +6879,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.390375+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.509115+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6613,7 +6898,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.536949+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.628504+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6632,7 +6917,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.278147+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.815290+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6651,7 +6936,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.037978+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.409271+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6670,7 +6955,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.205647+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.538128+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6689,45 +6974,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.337521+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0BZPFXK67",
-      "title": "1.75mm PLA 3D Printer Filament Bundle: Glow in Dark Green/Blue/Purple/Rainbow, One Spool Clear Multi Colored, Each Spool 250g, Total 1.25Kg 3D Printing Material, 250g x 5 Spools Glow in Dark PLA",
-      "url": "https://www.amazon.com/dp/B0BZPFXK67",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0BZPFXK67.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA",
-      "price": 26.0,
-      "priceIls": 86.0,
-      "priceDisplay": "$26 · ₪86",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.971536+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0H1MM4GYH",
-      "title": "PLA Filament 1.75mm Bundle for Bambu Lab 3D Printers, 8x250g Spools",
-      "url": "https://www.amazon.com/dp/B0H1MM4GYH",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H1MM4GYH.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA",
-      "price": 26.0,
-      "priceIls": 85.0,
-      "priceDisplay": "$26 · ₪85",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.994105+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.003780+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6746,7 +6993,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.617723+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.240009+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6765,7 +7012,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.527052+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.166552+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6784,7 +7031,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.903709+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.189905+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6803,7 +7050,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.625736+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.700609+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6822,7 +7069,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.834537+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.453288+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6841,7 +7088,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.969446+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.719668+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6860,26 +7107,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.966096+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0931YN8L1",
-      "title": "AMOLEN PLA Silk 3D Printer Filament Dual Color Bundle, 1.75mm 4x200g Spool",
-      "url": "https://www.amazon.com/dp/B0931YN8L1",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0931YN8L1.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA",
-      "price": 28.0,
-      "priceIls": 93.0,
-      "priceDisplay": "$28 · ₪93",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.996530+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.708941+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6898,7 +7126,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.061171+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.537579+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6917,7 +7145,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.180332+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.653590+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6936,7 +7164,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.210313+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.676930+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6955,7 +7183,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.301292+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.746728+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6974,7 +7202,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.331468+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.771088+00:00",
       "source": "Deal4Real"
     },
     {
@@ -6993,7 +7221,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.722930+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.024891+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7012,7 +7240,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.783373+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.094662+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7031,7 +7259,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.813508+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.118612+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7050,7 +7278,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.655396+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.724816+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7069,7 +7297,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.448307+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.941849+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7088,7 +7316,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.476753+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.963435+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7107,7 +7335,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.648818+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.874031+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7126,7 +7354,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.071184+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.605016+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7145,7 +7373,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.733795+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.327688+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7164,7 +7392,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.777019+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.545461+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7183,7 +7411,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.804672+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.567292+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7202,7 +7430,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.054448+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.785371+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7221,7 +7449,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.195100+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.894832+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7240,7 +7468,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.309127+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.981711+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7259,7 +7487,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:27.548193+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.997977+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7278,7 +7506,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.874386+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.639988+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7297,26 +7525,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:30.905000+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0FC6VJ1KJ",
-      "title": "PETG Filament 1.75mm, SUNLU 3D Printer Filament Bundle, Neatly Wound, Individually Vacuum Packed, 250g Spool, 8 Rolls, Midnight+Grey+Cyan+Oak+Olive Green+Bone White+Coffee Brown+Beige",
-      "url": "https://www.amazon.com/dp/B0FC6VJ1KJ",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0FC6VJ1KJ.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PETG",
-      "price": 30.0,
-      "priceIls": 98.0,
-      "priceDisplay": "$30 · ₪98",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.882028+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.663056+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7335,7 +7544,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.091256+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.560729+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7354,7 +7563,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.240709+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.700208+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7373,7 +7582,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.270972+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.723410+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7392,26 +7601,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.024220+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0HG9NM56Q",
-      "title": "Polymaker ASA Filament Bundle 2KG Jet Black*2, UV & Weather Resistant",
-      "url": "https://www.amazon.com/dp/B0HG9NM56Q",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0HG9NM56Q.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "ASA",
-      "price": 30.0,
-      "priceIls": 101.0,
-      "priceDisplay": "$30 · ₪101",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.359691+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.264392+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7430,26 +7620,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.685243+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0H6FW6QB7",
-      "title": "UGUESS PLA+ Silk 3D Printer Filament Bundle, 1.75mm Tri Colors PLA+, 250g×6",
-      "url": "https://www.amazon.com/dp/B0H6FW6QB7",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H6FW6QB7.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA+",
-      "price": 30.0,
-      "priceIls": 100.0,
-      "priceDisplay": "$30 · ₪100",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": false,
-      "shippingKnown": false,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.189841+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.748804+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7468,7 +7639,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.998711+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.582116+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7487,7 +7658,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.505378+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.984512+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7506,7 +7677,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.842860+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.258199+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7525,7 +7696,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.870524+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.279776+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7544,7 +7715,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.202698+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.890599+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7563,7 +7734,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.232012+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.913675+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7582,7 +7753,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.585383+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.212133+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7601,7 +7772,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.821953+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.398996+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7620,7 +7791,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.055053+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.287749+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7639,7 +7810,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.237492+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.436530+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7658,7 +7829,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.478557+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.581327+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7677,7 +7848,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:25.524894+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.346863+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7696,7 +7867,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.320134+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.982160+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7715,7 +7886,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.131237+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.113286+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7734,7 +7905,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.898220+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.301568+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7753,7 +7924,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.025909+00:00",
+      "verifiedAt": "2026-11-26T21:28:03.763334+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7772,7 +7943,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.507718+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.604911+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7791,7 +7962,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.590076+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.047306+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7810,7 +7981,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.787291+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.215359+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7829,7 +8000,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.510803+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.770792+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7848,7 +8019,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:26.477629+00:00",
+      "verifiedAt": "2026-11-26T21:28:04.111186+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7867,7 +8038,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.261748+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.936553+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7886,7 +8057,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.349448+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.005213+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7905,7 +8076,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.408639+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.051262+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7924,7 +8095,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.556125+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.189222+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7943,7 +8114,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.614243+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.234921+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7962,7 +8133,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.031127+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.514582+00:00",
       "source": "Deal4Real"
     },
     {
@@ -7981,7 +8152,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.452463+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.841067+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8000,26 +8171,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.420495+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0BQSKJF28",
-      "title": "1.75mm 8 Spools Popular Colors 3D Printer PLA Filament Bundle Pack: Black White Red Blue Yellow Orange Limegreen SkyBlue, Each Spool 250g, Widely Compatible, Total 2Kg 3D Printing Filament",
-      "url": "https://www.amazon.com/dp/B0BQSKJF28",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0BQSKJF28.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA",
-      "price": 34.0,
-      "priceIls": 113.0,
-      "priceDisplay": "$34 · ₪113",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": false,
-      "shippingKnown": false,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.862397+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.533443+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8038,7 +8190,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:36.944297+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.539110+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8057,7 +8209,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.594062+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.833171+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8076,7 +8228,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.081670+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.646421+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8095,7 +8247,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.109368+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.667578+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8114,26 +8266,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:38.372321+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0BZPRC4G3",
-      "title": "Silk PLA 2 Color in 1 Coextrusion 3D Printer Filament Bundle: White/Red, White/Blue, Blue/Purple, Lime GreenBlue, RedGold, RedBlack, GoldBlack, PurpleBlack, 2Kg Dual Color Silk PLA, 250g x 8",
-      "url": "https://www.amazon.com/dp/B0BZPRC4G3",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0BZPRC4G3.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA",
-      "price": 36.0,
-      "priceIls": 120.0,
-      "priceDisplay": "$36 · ₪120",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.391936+00:00",
+      "verifiedAt": "2026-11-26T21:28:13.663039+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8152,26 +8285,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.632343+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0F6CTWNYQ",
-      "title": "SUNLU PLA+2.0 3D Printer Filament, Multicolor Bundle, 8 Colors",
-      "url": "https://www.amazon.com/dp/B0F6CTWNYQ",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0F6CTWNYQ.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA+",
-      "price": 36.0,
-      "priceIls": 120.0,
-      "priceDisplay": "$36 · ₪120",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.268084+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.956542+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8190,7 +8304,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.802841+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.847018+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8209,7 +8323,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.892409+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.871550+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8228,7 +8342,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.001240+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.491517+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8247,7 +8361,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.115738+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.338984+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8266,7 +8380,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.449556+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.557288+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8285,7 +8399,45 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.101662+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.088937+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0H15RS41P",
+      "title": "ELEGOO PLA 3D Printer Filament Bundle 4KG Black/White/Brown/Beige",
+      "url": "https://www.amazon.com/dp/B0H15RS41P",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H15RS41P.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 39.0,
+      "priceIls": 130.0,
+      "priceDisplay": "$39 · ₪130",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": false,
+      "shippingKnown": false,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:10.161349+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0GZW95T4H",
+      "title": "ELEGOO PLA 3D Printer Filament 1.75mm 4KG CMYK Bundle",
+      "url": "https://www.amazon.com/dp/B0GZW95T4H",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0GZW95T4H.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 39.0,
+      "priceIls": 130.0,
+      "priceDisplay": "$39 · ₪130",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": false,
+      "shippingKnown": false,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:10.209109+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8304,7 +8456,26 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.278081+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.256447+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0CD2GRZ2M",
+      "title": "ELEGOO Rapid PLA Plus 3D Printer Filament Bundle Black/White/Red/Blue 4KG",
+      "url": "https://www.amazon.com/dp/B0CD2GRZ2M",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0CD2GRZ2M.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA+",
+      "price": 39.0,
+      "priceIls": 130.0,
+      "priceDisplay": "$39 · ₪130",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": false,
+      "shippingKnown": false,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:10.280406+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8323,7 +8494,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.025828+00:00",
+      "verifiedAt": "2026-11-26T21:28:07.777710+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8342,7 +8513,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.150680+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.607350+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8361,7 +8532,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.602188+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.933416+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8380,7 +8551,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.337925+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.305107+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8399,7 +8570,45 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.941916+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.468311+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0GGQSMQMQ",
+      "title": "OVERTURE 4KG Bundle High Speed PLA Filament 1.75mm, 3D Printer Filament",
+      "url": "https://www.amazon.com/dp/B0GGQSMQMQ",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0GGQSMQMQ.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 42.0,
+      "priceIls": 141.0,
+      "priceDisplay": "$42 · ₪141",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": false,
+      "shippingKnown": false,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:09.944859+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0HCCK2JSF",
+      "title": "Polymaker PLA Pro Filament 1.75mm 4KG Bundle, High-Impact Resistance, Brown + Army Beige + Army Green + White",
+      "url": "https://www.amazon.com/dp/B0HCCK2JSF",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0HCCK2JSF.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA+",
+      "price": 44.0,
+      "priceIls": 146.0,
+      "priceDisplay": "$44 · ₪146",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": false,
+      "shippingKnown": false,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:10.379045+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8418,7 +8627,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.715241+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.774467+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8437,7 +8646,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:32.120832+00:00",
+      "verifiedAt": "2026-11-26T21:28:08.584152+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8456,7 +8665,26 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.071627+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.065121+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0GT1CHL9M",
+      "title": "BESPORTBLE 8 Pastel PLA Filament Bundle, 2KG 3D Printer Filament 1.75mm",
+      "url": "https://www.amazon.com/dp/B0GT1CHL9M",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0GT1CHL9M.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 53.0,
+      "priceIls": 177.0,
+      "priceDisplay": "$53 · ₪177",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": true,
+      "shippingKnown": true,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:09.071024+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8475,7 +8703,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.566416+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.652584+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8494,26 +8722,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.042125+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0C2HHJDJX",
-      "title": "PLA Filament Bundle 1.75mm 10x250g, 10 Pack 250g Sample 3D Printer Filament, 3D Printing Filament Multi Pack",
-      "url": "https://www.amazon.com/dp/B0C2HHJDJX",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0C2HHJDJX.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA",
-      "price": 56.0,
-      "priceIls": 186.0,
-      "priceDisplay": "$56 · ₪186",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": true,
-      "shippingKnown": true,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:31.143901+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.041253+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8532,7 +8741,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.922507+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.896204+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8551,26 +8760,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.160518+00:00",
-      "source": "Deal4Real"
-    },
-    {
-      "asin": "B0HC7HHPMR",
-      "title": "ELEGOO PLA Basic 3D Printer Filament Bundle 1.75mm 250g Spool, 16 Pack",
-      "url": "https://www.amazon.com/dp/B0HC7HHPMR",
-      "image": "https://images-na.ssl-images-amazon.com/images/P/B0HC7HHPMR.01.LZZZZZZZ.jpg",
-      "marketplace": "www.amazon.com",
-      "material": "PLA",
-      "price": 66.0,
-      "priceIls": 220.0,
-      "priceDisplay": "$66 · ₪220",
-      "oldPrice": null,
-      "oldPriceDisplay": "",
-      "discount": 0.0,
-      "freeShipping": false,
-      "shippingKnown": false,
-      "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.307716+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.137502+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8589,7 +8779,26 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:37.165700+00:00",
+      "verifiedAt": "2026-11-26T21:28:12.710111+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0H8ZLTCRL",
+      "title": "Polymaker PETG Filament 1.75mm 10KG Bundle, Black",
+      "url": "https://www.amazon.com/dp/B0H8ZLTCRL",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H8ZLTCRL.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PETG",
+      "price": 97.0,
+      "priceIls": 323.0,
+      "priceDisplay": "$97 · ₪323",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": false,
+      "shippingKnown": false,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:10.354671+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8608,7 +8817,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.248349+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.232947+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8627,7 +8836,26 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.982256+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.968821+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0GKNYQ6H1",
+      "title": "OVERTURE 10KG Bundle High Speed PLA Filament 1.75mm, 3D Printer Filament",
+      "url": "https://www.amazon.com/dp/B0GKNYQ6H1",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0GKNYQ6H1.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PLA",
+      "price": 120.0,
+      "priceIls": 399.0,
+      "priceDisplay": "$120 · ₪399",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": false,
+      "shippingKnown": false,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:10.017285+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8646,7 +8874,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.012161+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.993363+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8665,7 +8893,7 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.952237+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.920952+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8684,7 +8912,26 @@
       "freeShipping": false,
       "shippingKnown": false,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:34.367750+00:00",
+      "verifiedAt": "2026-11-26T21:28:10.330061+00:00",
+      "source": "Deal4Real"
+    },
+    {
+      "asin": "B0H2VGG5F2",
+      "title": "PINBALL 16KG PETG Filament Bundle 1.75mm, Multicolor PETG",
+      "url": "https://www.amazon.com/dp/B0H2VGG5F2",
+      "image": "https://images-na.ssl-images-amazon.com/images/P/B0H2VGG5F2.01.LZZZZZZZ.jpg",
+      "marketplace": "www.amazon.com",
+      "material": "PETG",
+      "price": 130.0,
+      "priceIls": 432.0,
+      "priceDisplay": "$130 · ₪432",
+      "oldPrice": null,
+      "oldPriceDisplay": "",
+      "discount": 0.0,
+      "freeShipping": false,
+      "shippingKnown": false,
+      "country": "IL",
+      "verifiedAt": "2026-11-26T21:28:10.402470+00:00",
       "source": "Deal4Real"
     },
     {
@@ -8703,7 +8950,7 @@
       "freeShipping": true,
       "shippingKnown": true,
       "country": "IL",
-      "verifiedAt": "2026-11-26T08:16:33.773951+00:00",
+      "verifiedAt": "2026-11-26T21:28:09.823002+00:00",
       "source": "Deal4Real"
     }
   ]
